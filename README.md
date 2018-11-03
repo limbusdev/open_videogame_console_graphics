@@ -1,2 +1,3 @@
-# open_videogame_console_graphics
+# Open videogame console graphics
+
 A collection of open source video game console graphics like gamepad vector graphics and 3d models.
