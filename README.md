@@ -1,6 +1,6 @@
 # Open videogame console graphics
 
-![](./Nintendo/GameCube/Console/GameCube_Console_gold_top.png width=256px)
+![](./Nintendo/GameCube/Console/GameCube_Console_gold_top.png width="256 px")
 
 A collection of open source video game console graphics like gamepad vector graphics and 3d models.
 
