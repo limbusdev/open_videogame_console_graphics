@@ -13,6 +13,8 @@ Put the following images into the same directory:
 * **Game Cover:** 1000x1400 pixels ´cover.png´
 * **Icon:** 512x512 pixels ´icon.png´
 
+You can find more GameCube gamepad colors in ´Nintendo/GameCube/GamePad/´
+
 ## Examples
 
 It will look like this
@@ -20,3 +22,5 @@ It will look like this
 ![](./iconTex.png)
 
 ![](./bootTvTex.png)
+
+
