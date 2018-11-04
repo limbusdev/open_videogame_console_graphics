@@ -1766,8 +1766,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="590.54705"
-     inkscape:cy="146.95221"
+     inkscape:cx="858.15057"
+     inkscape:cy="144.12378"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1806,15 +1806,15 @@
      inkscape:label="Background"
      style="display:inline">
     <image
-       sodipodi:absref="/home/georg/Datenpartition/Software/Videospiele/GitHub-Projekte/open_videogame_console_graphics/Nintendo/Wii U/Banners_and_Icons/Wii_U_VC_GameCube/icon.png"
+       sodipodi:absref="/home/georg/Datenpartition/Software/Videospiele/GitHub-Projekte/open_videogame_console_graphics/Nintendo/Wii_U/Banners_and_Icons/Wii_U_VC_GameCube/icon.png"
        xlink:href="icon.png"
-       style="filter:url(#filter5176)"
-       y="11.375497"
-       x="1493.4707"
-       id="image5148"
-       preserveAspectRatio="none"
+       width="512"
        height="512"
-       width="512" />
+       preserveAspectRatio="none"
+       id="image5148"
+       x="1493.4707"
+       y="11.375497"
+       style="filter:url(#filter5176)" />
     <rect
        clip-path="none"
        inkscape:export-ydpi="24"
@@ -1872,40 +1872,40 @@
        ry="72.73098"
        transform="matrix(0.39999999,0,0,0.39999999,1540.5712,-99.133691)" />
     <image
-       sodipodi:absref="/home/georg/Datenpartition/Software/Videospiele/GitHub-Projekte/open_videogame_console_graphics/Nintendo/Wii U/Banners_and_Icons/Wii_U_VC_GameCube/icon.png"
+       sodipodi:absref="/home/georg/Datenpartition/Software/Videospiele/GitHub-Projekte/open_videogame_console_graphics/Nintendo/Wii_U/Banners_and_Icons/Wii_U_VC_GameCube/icon.png"
        xlink:href="icon.png"
-       clip-path="url(#clipPath5150)"
-       width="480"
-       height="480"
-       preserveAspectRatio="none"
-       id="image5145"
+       y="17.375528"
        x="1509.4707"
-       y="17.375528" />
-    <image
-       sodipodi:absref="/home/georg/Datenpartition/Software/Videospiele/GitHub-Projekte/open_videogame_console_graphics/Nintendo/Wii U/Banners_and_Icons/Wii_U_VC_GameCube/GameCube_Console_purple_top.png"
-       xlink:href="GameCube_Console_purple_top.png"
-       transform="rotate(-15)"
-       width="866.10535"
-       height="866.10535"
+       id="image5145"
        preserveAspectRatio="none"
-       id="image1200"
+       height="480"
+       width="480"
+       clip-path="url(#clipPath5150)" />
+    <image
+       sodipodi:absref="/home/georg/Datenpartition/Software/Videospiele/GitHub-Projekte/open_videogame_console_graphics/Nintendo/Wii_U/Banners_and_Icons/Wii_U_VC_GameCube/gc_console_top.png"
+       xlink:href="gc_console_top.png"
+       y="31.741676"
        x="-297.16098"
-       y="31.741676" />
+       id="image1200"
+       preserveAspectRatio="none"
+       height="866.10535"
+       width="866.10535"
+       transform="rotate(-15)" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Background1">
     <image
-       sodipodi:absref="/home/georg/Datenpartition/Software/Videospiele/GitHub-Projekte/open_videogame_console_graphics/Nintendo/Wii U/Banners_and_Icons/Wii_U_VC_GameCube/background.png"
+       sodipodi:absref="/home/georg/Datenpartition/Software/Videospiele/GitHub-Projekte/open_videogame_console_graphics/Nintendo/Wii_U/Banners_and_Icons/Wii_U_VC_GameCube/background.png"
        xlink:href="background.png"
-       clip-path="url(#clipPath5051)"
-       width="720"
-       height="720"
-       preserveAspectRatio="none"
-       id="image5048"
+       y="0"
        x="560"
-       y="0" />
+       id="image5048"
+       preserveAspectRatio="none"
+       height="720"
+       width="720"
+       clip-path="url(#clipPath5051)" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1992,24 +1992,24 @@
        d="m 490.42773,517.4876 c -7.19834,0 -12.21289,5.01454 -12.21289,12.21289 l 0,330.14453 c 0,7.19834 5.01455,12.21289 12.21289,12.21289 l 692.93167,0 c 7.1983,0 12.2129,-5.01455 12.2129,-12.21289 l 0,-330.14453 c 0,-7.19835 -5.0146,-12.21289 -12.2129,-12.21289 z"
        style="opacity:0.75;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:50;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <image
-       sodipodi:absref="/home/georg/Datenpartition/Software/Videospiele/GitHub-Projekte/open_videogame_console_graphics/Nintendo/Wii U/Banners_and_Icons/Wii_U_VC_GameCube/cover.png"
+       sodipodi:absref="/home/georg/Datenpartition/Software/Videospiele/GitHub-Projekte/open_videogame_console_graphics/Nintendo/Wii_U/Banners_and_Icons/Wii_U_VC_GameCube/cover.png"
        xlink:href="cover.png"
-       clip-path="url(#clipPath5035)"
-       width="349.47031"
-       height="493.07248"
-       preserveAspectRatio="none"
-       id="image5032"
+       y="101.63058"
        x="103.12686"
-       y="101.63058" />
-    <image
-       sodipodi:absref="/home/georg/Datenpartition/Software/Videospiele/GitHub-Projekte/open_videogame_console_graphics/Nintendo/Wii U/Banners_and_Icons/Wii_U_VC_GameCube/logo.png"
-       xlink:href="logo.png"
-       y="237.4106"
-       x="636.89355"
-       id="image476"
+       id="image5032"
        preserveAspectRatio="none"
+       height="493.07248"
+       width="349.47031"
+       clip-path="url(#clipPath5035)" />
+    <image
+       sodipodi:absref="/home/georg/Datenpartition/Software/Videospiele/GitHub-Projekte/open_videogame_console_graphics/Nintendo/Wii_U/Banners_and_Icons/Wii_U_VC_GameCube/logo.png"
+       xlink:href="logo.png"
+       width="400"
        height="250"
-       width="400" />
+       preserveAspectRatio="none"
+       id="image476"
+       x="636.89355"
+       y="237.4106" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:13.75px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -2132,7 +2132,7 @@
        id="BOTTOM_LEFT_LINE"
        transform="matrix(0.02582806,0,0,0.02582806,1233.7677,1112.2055)" />
     <path
-       style="display:inline;fill:#555753;stroke:none;stroke-width:0.34023857px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="display:inline;fill:#2e3436;stroke:none;stroke-width:0.34023857px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 1631.7275,780.57365 -28.1526,16.31996 v 32.47361 l 28.083,16.17421 28.2849,-16.22858 -0.083,-32.41924 -0.7296,-0.53085 -15.0939,8.67578 -12.3886,-6.99314 -13.0039,7.34573 -0.2084,15.34695 13.2224,7.64312 13.153,-7.75077 v -4.19893 l 5.5436,-3.20512 v 10.50286 l -18.6966,10.82722 -18.5532,-10.78138 0.019,-21.24347 18.6926,-10.81947 12.4976,7.28626 8.6566,-5.07647 v -1.03217 z"
        id="path2242"
        inkscape:connector-curvature="0" />
@@ -2140,110 +2140,110 @@
        id="polygon4307-9"
        points="-28.812,144.312 -27.834,144.312 -27.842,124.742 15.25,98.583 14.104,97.729 -28.812,123.688 "
        display="inline"
-       style="display:inline;fill:#555753;stroke:none"
+       style="display:inline;fill:#2e3436;stroke:none"
        transform="matrix(0.02786621,0,0,0.02786621,1742.054,811.34726)" />
     <path
        id="path4312"
        d="m 1692.9923,813.4289 v 4.78175 h -19.7908 v 12.21402 h 14.4201 v -3.38449 h -8.3144 v -5.11351 h 14.0529 c 0,0 0,5.57613 0,9.32682 -0.061,1.56326 -3.1852,4.68873 -4.9297,4.68873 -3.2374,0 -11.9891,0 -16.1027,0 -2.2682,0 -5.3803,-3.11162 -5.3803,-4.68179 0,-4.77348 0,-9.42386 0,-13.49114 0,-2.62766 1.7133,-4.34042 3.9454,-4.34042 3.6972,3e-5 22.0995,3e-5 22.0995,3e-5 z"
        inkscape:connector-curvature="0"
-       style="fill:#555753;stroke:none;stroke-width:0.02786621" />
+       style="fill:#2e3436;stroke:none;stroke-width:0.02786621" />
     <polygon
        id="polygon4314"
        points="294.574,65.119 294.574,870.081 89.602,870.081 88.626,461.17 -149.016,870.081 -323.251,870.081 -559.888,460.175 -560.864,870.081 -910.359,870.081 -1233.153,318.598 -1447.011,679.96 -1210.374,680.018 -1210.374,870.081 -1795.501,870.081 -1320.266,65.119 -1132.163,65.119 -767.807,679.96 -767.807,65.119 -560.864,65.119 -235.153,616.632 89.602,65.119 "
        transform="matrix(0.02786621,0,0,0.02786621,1742.054,811.34726)"
-       style="fill:#555753;stroke:none" />
+       style="fill:#2e3436;stroke:none" />
     <polygon
        id="polygon4316"
        points="370.795,870.081 1196.52,870.081 1196.52,679.96 594.541,679.96 594.541,541.348 943.051,541.348 943.051,365.133 594.541,365.133 594.541,238.398 1196.52,238.398 1196.52,65.119 370.795,65.119 "
        transform="matrix(0.02786621,0,0,0.02786621,1742.054,811.34726)"
-       style="fill:#555753;stroke:none" />
+       style="fill:#2e3436;stroke:none" />
     <path
        id="path4318"
        d="m 1798.3881,821.98213 h 5.7382 V 817.126 c 0,0 0.6258,-3.99079 -3.5316,-3.99079 0,0 -13.3525,0 -18.0972,0 -1.7829,0 -2.6293,0.84665 -2.6293,2.20686 0,2.29933 0,11.01855 0,15.89114 0,2.2269 2.1331,4.36047 3.4948,4.36047 3.9725,0 17.713,0 17.713,0 0,0 3.0844,0.42104 3.0844,-3.03595 0,-3.45805 0,-6.60322 0,-6.60322 h -5.7521 v 4.37748 h -12.8024 V 818.4313 h 12.343 v 3.54974 z"
        inkscape:connector-curvature="0"
-       style="fill:#555753;stroke:none;stroke-width:0.02786621" />
+       style="fill:#2e3436;stroke:none;stroke-width:0.02786621" />
     <path
        id="path4320"
        d="m 1806.3521,813.13419 h 6.18 v 17.21695 h 12.7881 v -17.21695 h 6.187 v 18.55423 c 0,0 0.3933,3.97347 -5.29,3.97347 -5.6833,0 -15.0085,0 -15.0085,0 0,0 -4.8561,0.44133 -4.8561,-3.97347 -3e-4,-3.07538 -3e-4,-18.55423 -3e-4,-18.55423 z"
        inkscape:connector-curvature="0"
-       style="fill:#555753;stroke:none;stroke-width:0.02786621" />
+       style="fill:#2e3436;stroke:none;stroke-width:0.02786621" />
     <path
        id="path4325"
        d="m 1857.9916,826.36066 v 5.76963 c 0,2.0435 -1.5009,3.5444 -6.1848,3.5444 -4.1537,0 -18.0946,0 -18.0946,0 v -22.53948 c 0,0 18.3157,0 21.1982,0 1.9507,0 3.0817,1.13024 3.0817,3.09056 0,1.59364 0,5.53034 0,6.17097 0,0.48984 -0.6667,1.33353 -2.1985,1.33353 0.01,0.10503 0,0 0,0.42748 1.0281,3e-5 2.198,1.16943 2.198,2.20291 z m -5.7392,3.55341 c 0,-0.52019 0,-1.90278 0,-2.63508 0,-0.72807 -0.1717,-0.90023 -0.4419,-0.90023 -0.5516,0 -11.9097,0 -11.9097,0 v 3.97238 c 0,0 8.5599,0 11.4774,0 0.6359,0 0.8742,-0.23826 0.8742,-0.43707 z m 0,-8.82844 c 0,-0.52128 0,-1.90282 0,-2.63566 0,-0.72811 -0.1717,-0.90023 -0.4419,-0.90023 -0.5516,0 -11.9097,0 -11.9097,0 v 3.97293 c 0,0 8.5599,0 11.4774,0 0.6359,0 0.8742,-0.23878 0.8742,-0.43704 z"
        inkscape:connector-curvature="0"
-       style="fill:#555753;stroke:none;stroke-width:0.02786621" />
+       style="fill:#2e3436;stroke:none;stroke-width:0.02786621" />
     <polygon
        id="polygon4327"
        points="5063.774,872.97 5063.774,680.955 4444.965,680.955 4444.965,540.373 4793.493,540.373 4793.493,365.133 4444.965,365.133 4444.965,238.398 5047.917,238.398 5047.917,63.139 4239.045,63.139 4239.045,872.97 "
        transform="matrix(0.02786621,0,0,0.02786621,1742.054,811.34726)"
-       style="fill:#555753;stroke:none" />
+       style="fill:#2e3436;stroke:none" />
     <polygon
        id="polygon4329"
        points="5158.835,712.955 5206.996,712.955 5206.996,872.97 5253.226,872.97 5253.226,714.312 5300.738,714.312 5300.738,681.969 5158.835,681.969 "
        transform="matrix(0.02786621,0,0,0.02786621,1742.054,811.34726)"
-       style="fill:#555753;stroke:none" />
+       style="fill:#2e3436;stroke:none" />
     <polygon
        id="polygon4331"
        points="5507.345,681.969 5442.659,681.969 5412.304,792.178 5380.61,681.969 5317.262,681.969 5317.262,872.97 5364.124,872.97 5364.124,777.488 5395.759,872.97 5427.473,872.97 5459.164,777.488 5459.164,872.97 5507.345,872.97 "
        transform="matrix(0.02786621,0,0,0.02786621,1742.054,811.34726)"
-       style="fill:#555753;stroke:none" />
+       style="fill:#2e3436;stroke:none" />
     <polygon
        id="polygon4334"
        points="-2413.317,-600.188 -2175.704,-158.627 -2049.964,-158.627 -2049.964,-759.602 -2176.68,-759.602 -2176.68,-397.244 -2366.781,-759.602 -2524.215,-759.602 -2524.215,-158.627 -2413.317,-158.627 "
        transform="matrix(0.02786621,0,0,0.02786621,1742.054,811.34726)"
-       style="fill:#555753;stroke:none" />
+       style="fill:#2e3436;stroke:none" />
     <polygon
        id="polygon4336"
        points="-512.549,-600.188 -274.926,-158.627 -149.187,-158.627 -149.187,-759.602 -275.912,-759.602 -275.912,-397.244 -465.995,-759.602 -623.417,-759.602 -623.417,-158.627 -512.549,-158.627 "
        transform="matrix(0.02786621,0,0,0.02786621,1742.054,811.34726)"
-       style="fill:#555753;stroke:none" />
+       style="fill:#2e3436;stroke:none" />
     <rect
        id="rect4338"
        height="16.746895"
        width="3.5246851"
        y="790.18005"
        x="1703.0488"
-       style="fill:#555753;stroke:none;stroke-width:0.02786621" />
+       style="fill:#2e3436;stroke:none;stroke-width:0.02786621" />
     <polygon
        id="polygon4340"
        points="373.453,-664.551 563.517,-664.551 563.517,-158.627 691.571,-158.627 691.571,-664.551 880.354,-664.551 880.354,-759.602 373.453,-759.602 "
        transform="matrix(0.02786621,0,0,0.02786621,1742.054,811.34726)"
-       style="fill:#555753;stroke:none" />
+       style="fill:#2e3436;stroke:none" />
     <path
        id="path4342"
        d="m 1782.9559,796.35128 v 0.45013 h 9.7111 v 2.64869 h -9.7111 c 0,0 0,2.58714 0,3.53185 0,0.37977 0.9316,1.31036 1.3106,1.31036 1.1172,0 8.4005,0 8.4005,0 v 2.67216 c 0,0 -7.1363,0 -9.7111,0 -1.8165,0 -3.0994,-1.56084 -3.0994,-3.09933 0,-0.36753 0,-7.94563 0,-10.60364 0,-1.92599 1.1545,-3.08151 3.0812,-3.08151 h 9.7293 v 2.64873 c 0,0 -5.8672,0 -7.9453,0 -0.8464,0 -1.7658,0.92017 -1.7658,1.35248"
        inkscape:connector-curvature="0"
-       style="fill:#555753;stroke:none;stroke-width:0.02786621" />
+       style="fill:#2e3436;stroke:none;stroke-width:0.02786621" />
     <polygon
        id="polygon4344"
        points="2734.106,-157.298 2845.023,-157.298 2845.023,-759.602 2735.102,-759.602 2735.102,-397.244 2530.157,-759.602 2386.591,-759.602 2386.591,-157.298 2496.476,-157.298 2496.476,-599.213 "
        transform="matrix(0.02786621,0,0,0.02786621,1742.054,811.34726)"
-       style="fill:#555753;stroke:none" />
+       style="fill:#2e3436;stroke:none" />
     <path
        id="path4349"
        d="m 1850.5223,793.27031 v 10.62096 c 0,0.80317 -2.2685,3.07215 -3.5839,3.07215 -2.6495,0 -9.685,0 -9.685,0 v -16.78339 c 0,0 6.8687,0 8.8018,0 2.7364,0 4.4671,1.73062 4.4671,3.09028 z m -3.1255,9.72048 c 0,-1.14779 0,-6.37008 0,-8.81119 0,-0.30911 -1.0415,-1.35085 -1.7701,-1.35085 -1.3378,0 -5.2841,0 -5.2841,0 v 11.9188 c 0,0 3.7742,0 5.2975,0 0.543,0 1.7567,-1.21391 1.7567,-1.75676 z"
        inkscape:connector-curvature="0"
-       style="fill:#555753;stroke:none;stroke-width:0.02786621" />
+       style="fill:#2e3436;stroke:none;stroke-width:0.02786621" />
     <path
        id="path4354"
        d="m 1879.1977,794.15323 c 0,1.22748 0,6.37434 0,8.80262 0,2.53787 -1.9064,4.4409 -4.8288,4.4409 -0.013,0 -0.022,0 -0.036,0 -2.5114,0 -1.7913,0 -4.4046,0 h -0.036 c -2.8248,0 -4.6962,-1.77061 -4.8246,-4.17568 0,-0.0885 0,-0.177 0,-0.26468 0,-1.67785 0,-7.14208 0,-8.80234 0,-0.30462 0,-0.48106 0,-0.48106 0,-1.6864 1.8186,-3.50494 3.9596,-3.50494 1.5846,0 6.18,0 6.18,0 2.5909,0 3.9943,1.39883 3.9943,3.98518 z m -3.5534,8.40076 c 0,-0.41522 0,-7.21298 0,-7.95916 0,-0.64897 -1.1299,-1.77914 -1.7653,-1.77914 -0.6353,0 -3.5055,0 -3.5055,0 -0.9093,0 -1.7914,0.88315 -1.7914,1.70823 0,0.53857 0,7.18635 0,8.02953 0,1.2581 0.4808,1.73944 1.3368,1.73944 0.7856,0 2.9405,0 3.9868,0 0.8559,0 1.7386,-0.88238 1.7386,-1.7389 z"
        inkscape:connector-curvature="0"
-       style="fill:#555753;stroke:none;stroke-width:0.02786621" />
+       style="fill:#2e3436;stroke:none;stroke-width:0.02786621" />
     <polygon
        id="polygon4371-3"
        points="-3954.003,63.062 -3953.372,66.965 -3959.521,66.965 -3957.465,63.062 "
-       style="fill:#555753;stroke:none"
+       style="fill:#2e3436;stroke:none"
        transform="matrix(0.02786621,0,0,0.02786621,1742.054,811.34726)" />
     <path
        id="path4454-0"
        d="M 1603.5749,796.89362"
        inkscape:connector-curvature="0"
-       style="fill:#555753;stroke:none;stroke-width:0.02786621" />
+       style="fill:#2e3436;stroke:none;stroke-width:0.02786621" />
     <path
        id="path4461-7"
        d="M 1603.6871,796.78113"
        inkscape:connector-curvature="0"
-       style="fill:#555753;stroke:none;stroke-width:0.02786621" />
+       style="fill:#2e3436;stroke:none;stroke-width:0.02786621" />
     <path
        inkscape:connector-curvature="0"
        id="path1315"
@@ -2266,14 +2266,14 @@
        id="path1212"
        inkscape:connector-curvature="0" />
     <image
-       sodipodi:absref="/home/georg/Datenpartition/Software/Videospiele/GitHub-Projekte/open_videogame_console_graphics/Nintendo/Wii U/Banners_and_Icons/Wii_U_VC_GameCube/gc_pad_p.png"
+       sodipodi:absref="/home/georg/Datenpartition/Software/Videospiele/GitHub-Projekte/open_videogame_console_graphics/Nintendo/Wii_U/Banners_and_Icons/Wii_U_VC_GameCube/gc_pad_p.png"
        xlink:href="gc_pad_p.png"
-       width="426.93597"
-       height="426.93597"
-       preserveAspectRatio="none"
-       id="image4914"
+       y="619.42621"
        x="300.9234"
-       y="619.42621" />
+       id="image4914"
+       preserveAspectRatio="none"
+       height="426.93597"
+       width="426.93597" />
   </g>
   <g
      inkscape:groupmode="layer"
