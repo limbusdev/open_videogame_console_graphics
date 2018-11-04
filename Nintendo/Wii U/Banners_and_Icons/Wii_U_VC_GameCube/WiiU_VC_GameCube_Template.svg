@@ -1766,8 +1766,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="657.4438"
-     inkscape:cy="241.08251"
+     inkscape:cx="590.54705"
+     inkscape:cy="146.95221"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -2067,15 +2067,6 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-332.36216)">
-    <image
-       sodipodi:absref="/home/georg/Datenpartition/Software/Videospiele/GitHub-Projekte/open_videogame_console_graphics/Nintendo/Wii U/Banners_and_Icons/Wii_U_VC_GameCube/gc_pad_p.png"
-       xlink:href="gc_pad_p.png"
-       y="709.02063"
-       x="231.24615"
-       id="image1188"
-       preserveAspectRatio="none"
-       height="349.34152"
-       width="621.05157" />
     <g
        style="display:none"
        id="Layer_1_1_"
@@ -2274,6 +2265,15 @@
        d="m 233.69879,1011.35 12.02082,17.3241"
        id="path1212"
        inkscape:connector-curvature="0" />
+    <image
+       sodipodi:absref="/home/georg/Datenpartition/Software/Videospiele/GitHub-Projekte/open_videogame_console_graphics/Nintendo/Wii U/Banners_and_Icons/Wii_U_VC_GameCube/gc_pad_p.png"
+       xlink:href="gc_pad_p.png"
+       width="426.93597"
+       height="426.93597"
+       preserveAspectRatio="none"
+       id="image4914"
+       x="300.9234"
+       y="619.42621" />
   </g>
   <g
      inkscape:groupmode="layer"
