@@ -1765,11 +1765,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="1031.7267"
-     inkscape:cy="-1.37982"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="657.4438"
+     inkscape:cy="241.08251"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      inkscape:window-width="1920"
@@ -1808,13 +1808,13 @@
     <image
        sodipodi:absref="/home/georg/Datenpartition/Software/Videospiele/GitHub-Projekte/open_videogame_console_graphics/Nintendo/Wii U/Banners_and_Icons/Wii_U_VC_GameCube/icon.png"
        xlink:href="icon.png"
-       width="512"
-       height="512"
-       preserveAspectRatio="none"
-       id="image5148"
-       x="1493.4707"
+       style="filter:url(#filter5176)"
        y="11.375497"
-       style="filter:url(#filter5176)" />
+       x="1493.4707"
+       id="image5148"
+       preserveAspectRatio="none"
+       height="512"
+       width="512" />
     <rect
        clip-path="none"
        inkscape:export-ydpi="24"
@@ -1861,16 +1861,6 @@
          id="path4885"
          inkscape:connector-curvature="0" />
     </g>
-    <image
-       sodipodi:absref="/home/georg/Datenpartition/Software/Videospiele/Nintendo/Wii U/InjectorImages/Quelldateien/Resources/gc_pad_t.png"
-       xlink:href="file:///home/georg/Datenpartition/Software/Videospiele/Nintendo/Wii%20U/InjectorImages/Quelldateien/Resources/gc_pad_t.png"
-       transform="rotate(-21.834226)"
-       width="1197.1149"
-       height="673.37708"
-       preserveAspectRatio="none"
-       id="image1177"
-       x="-387.77231"
-       y="41.315464" />
     <rect
        style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:50;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter4812-3)"
        id="rect4952-7"
@@ -1884,13 +1874,23 @@
     <image
        sodipodi:absref="/home/georg/Datenpartition/Software/Videospiele/GitHub-Projekte/open_videogame_console_graphics/Nintendo/Wii U/Banners_and_Icons/Wii_U_VC_GameCube/icon.png"
        xlink:href="icon.png"
-       y="17.375528"
-       x="1509.4707"
-       id="image5145"
-       preserveAspectRatio="none"
-       height="480"
+       clip-path="url(#clipPath5150)"
        width="480"
-       clip-path="url(#clipPath5150)" />
+       height="480"
+       preserveAspectRatio="none"
+       id="image5145"
+       x="1509.4707"
+       y="17.375528" />
+    <image
+       sodipodi:absref="/home/georg/Datenpartition/Software/Videospiele/GitHub-Projekte/open_videogame_console_graphics/Nintendo/Wii U/Banners_and_Icons/Wii_U_VC_GameCube/GameCube_Console_purple_top.png"
+       xlink:href="GameCube_Console_purple_top.png"
+       transform="rotate(-15)"
+       width="866.10535"
+       height="866.10535"
+       preserveAspectRatio="none"
+       id="image1200"
+       x="-297.16098"
+       y="31.741676" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1899,13 +1899,13 @@
     <image
        sodipodi:absref="/home/georg/Datenpartition/Software/Videospiele/GitHub-Projekte/open_videogame_console_graphics/Nintendo/Wii U/Banners_and_Icons/Wii_U_VC_GameCube/background.png"
        xlink:href="background.png"
-       y="0"
-       x="560"
-       id="image5048"
-       preserveAspectRatio="none"
-       height="720"
+       clip-path="url(#clipPath5051)"
        width="720"
-       clip-path="url(#clipPath5051)" />
+       height="720"
+       preserveAspectRatio="none"
+       id="image5048"
+       x="560"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1994,22 +1994,22 @@
     <image
        sodipodi:absref="/home/georg/Datenpartition/Software/Videospiele/GitHub-Projekte/open_videogame_console_graphics/Nintendo/Wii U/Banners_and_Icons/Wii_U_VC_GameCube/cover.png"
        xlink:href="cover.png"
-       y="101.63058"
-       x="103.12686"
-       id="image5032"
-       preserveAspectRatio="none"
-       height="493.07248"
+       clip-path="url(#clipPath5035)"
        width="349.47031"
-       clip-path="url(#clipPath5035)" />
+       height="493.07248"
+       preserveAspectRatio="none"
+       id="image5032"
+       x="103.12686"
+       y="101.63058" />
     <image
        sodipodi:absref="/home/georg/Datenpartition/Software/Videospiele/GitHub-Projekte/open_videogame_console_graphics/Nintendo/Wii U/Banners_and_Icons/Wii_U_VC_GameCube/logo.png"
        xlink:href="logo.png"
-       width="400"
-       height="250"
-       preserveAspectRatio="none"
-       id="image476"
+       y="237.4106"
        x="636.89355"
-       y="237.4106" />
+       id="image476"
+       preserveAspectRatio="none"
+       height="250"
+       width="400" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:13.75px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -2068,14 +2068,14 @@
      id="layer1"
      transform="translate(0,-332.36216)">
     <image
-       sodipodi:absref="/home/georg/Datenpartition/Software/Videospiele/Nintendo/Wii U/InjectorImages/Quelldateien/Resources/gc_pad_p.png"
-       xlink:href="file:///home/georg/Datenpartition/Software/Videospiele/Nintendo/Wii%20U/InjectorImages/Quelldateien/Resources/gc_pad_p.png"
-       width="621.05157"
-       height="349.34152"
-       preserveAspectRatio="none"
-       id="image1188"
+       sodipodi:absref="/home/georg/Datenpartition/Software/Videospiele/GitHub-Projekte/open_videogame_console_graphics/Nintendo/Wii U/Banners_and_Icons/Wii_U_VC_GameCube/gc_pad_p.png"
+       xlink:href="gc_pad_p.png"
+       y="709.02063"
        x="231.24615"
-       y="709.02063" />
+       id="image1188"
+       preserveAspectRatio="none"
+       height="349.34152"
+       width="621.05157" />
     <g
        style="display:none"
        id="Layer_1_1_"
@@ -2256,7 +2256,7 @@
     <path
        inkscape:connector-curvature="0"
        id="path1315"
-       d="m 1217.3629,972.90669 -28.1526,16.31996 v 32.47365 l 28.083,16.1742 28.2849,-16.2286 -0.083,-32.41925 -0.7296,-0.53085 -15.0939,8.67578 -12.3886,-6.99314 -13.0039,7.34573 -0.2084,15.34693 13.2224,7.6431 13.153,-7.7507 v -4.199 l 5.5436,-3.2051 v 10.5029 l -18.6966,10.8272 -18.5532,-10.7814 0.019,-21.24345 18.6926,-10.81947 12.4976,7.28626 8.6566,-5.07647 v -1.03217 z"
+       d="m 1214.9112,967.29966 -28.1526,16.31996 v 32.47368 l 28.083,16.1742 28.2849,-16.2286 -0.083,-32.41928 -0.7296,-0.53085 -15.0939,8.67578 -12.3886,-6.99314 -13.0039,7.34573 -0.2084,15.34696 13.2224,7.6431 13.153,-7.7507 v -4.199 l 5.5436,-3.20513 v 10.50293 l -18.6966,10.8272 -18.5532,-10.7814 0.019,-21.24348 18.6926,-10.81947 12.4976,7.28626 8.6566,-5.07647 v -1.03217 z"
        style="display:inline;fill:#555753;stroke:none;stroke-width:0.34023857px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <text
        xml:space="preserve"
