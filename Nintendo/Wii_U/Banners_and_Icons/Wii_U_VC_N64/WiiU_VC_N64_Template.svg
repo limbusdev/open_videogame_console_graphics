@@ -1780,11 +1780,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.96763394"
-     inkscape:cx="1658.456"
-     inkscape:cy="360.45758"
+     inkscape:zoom="0.48381697"
+     inkscape:cx="2095.7004"
+     inkscape:cy="102.79964"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="g1273"
      showgrid="false"
      units="px"
      inkscape:window-width="1920"
@@ -1823,13 +1823,13 @@
     <image
        sodipodi:absref="/home/georg/Datenpartition/Software/Videospiele/GitHub-Projekte/open_videogame_console_graphics/Nintendo/Wii_U/Banners_and_Icons/Wii_U_VC_N64/./icon.png"
        xlink:href="./icon.png"
-       style="filter:url(#filter5176)"
-       y="11.375497"
-       x="1493.4707"
-       id="image5148"
-       preserveAspectRatio="none"
+       width="512"
        height="512"
-       width="512" />
+       preserveAspectRatio="none"
+       id="image5148"
+       x="1493.4707"
+       y="11.375497"
+       style="filter:url(#filter5176)" />
     <rect
        clip-path="none"
        inkscape:export-ydpi="24"
@@ -1889,39 +1889,73 @@
     <image
        sodipodi:absref="/home/georg/Datenpartition/Software/Videospiele/GitHub-Projekte/open_videogame_console_graphics/Nintendo/Wii_U/Banners_and_Icons/Wii_U_VC_N64/./icon.png"
        xlink:href="./icon.png"
-       clip-path="url(#clipPath5150)"
-       width="480"
-       height="480"
-       preserveAspectRatio="none"
-       id="image5145"
+       y="17.375528"
        x="1509.4707"
-       y="17.375528" />
+       id="image5145"
+       preserveAspectRatio="none"
+       height="480"
+       width="480"
+       clip-path="url(#clipPath5150)" />
     <g
        id="g1273"
        transform="matrix(13.908194,0,0,13.908194,857.79789,-3679.2313)"
        style="fill:#2e3436">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:3.70045662px;line-height:1.25;font-family:sans-serif;letter-spacing:1.27203202px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:#2e3436;stroke-width:0.14380012;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-         x="54.762424"
-         y="293.60236"
-         id="text1200"
-         transform="scale(0.97745652,1.0230634)"><tspan
-           id="tspan1202"
-           sodipodi:role="line"
-           x="54.762424"
-           y="293.60236"
-           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';letter-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:#2e3436;stroke-width:0.14380012;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none">Nintendo 64</tspan></text>
+      <g
+         aria-label="NINTENDO64"
+         transform="scale(1.0607442,0.94273435)"
+         style="font-style:normal;font-weight:normal;font-size:3.41166449px;line-height:1.25;font-family:sans-serif;letter-spacing:1.17275977px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:#2e3436;stroke-width:0.13257764;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="text1200">
+        <path
+           d="m 51.702964,318.48712 -0.999618,-1.71948 v 1.71948 h -0.51175 v -2.4871 h 0.525397 l 0.985971,1.69218 v -1.69218 h 0.511749 v 2.4871 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';letter-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:#2e3436;stroke-width:0.13257764;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path1221" />
+        <path
+           d="m 53.275421,316.00002 v 2.4871 h -0.51175 v -2.4871 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';letter-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:#2e3436;stroke-width:0.13257764;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path1223" />
+        <path
+           d="m 55.334521,318.48712 -0.999618,-1.71948 v 1.71948 h -0.51175 v -2.4871 h 0.525397 l 0.985971,1.69218 v -1.69218 h 0.511749 v 2.4871 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';letter-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:#2e3436;stroke-width:0.13257764;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path1225" />
+        <path
+           d="m 57.490372,316.42648 v 2.06064 h -0.511749 v -2.06064 h -0.753978 v -0.42646 h 1.992412 v 0.42646 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';letter-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:#2e3436;stroke-width:0.13257764;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path1227" />
+        <path
+           d="m 59.105902,317.41586 v 0.6448 h 1.347608 v 0.42646 h -1.859357 v -2.4871 H 60.3921 v 0.42646 h -1.286198 v 0.56292 h 1.190671 v 0.42646 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';letter-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:#2e3436;stroke-width:0.13257764;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path1229" />
+        <path
+           d="m 62.371078,318.48712 -0.999617,-1.71948 v 1.71948 h -0.51175 v -2.4871 h 0.525396 l 0.985971,1.69218 v -1.69218 h 0.51175 v 2.4871 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';letter-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:#2e3436;stroke-width:0.13257764;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path1231" />
+        <path
+           d="m 63.431786,318.48712 v -2.4871 h 0.972324 q 0.28658,0 0.47081,0.0682 0.187641,0.0682 0.313873,0.21835 0.303638,0.36163 0.303638,0.95526 0,0.60046 -0.303638,0.95527 -0.242228,0.28999 -0.784683,0.28999 z m 0.511749,-0.42646 h 0.460575 q 0.576571,0 0.576571,-0.81538 0,-0.8188 -0.576571,-0.8188 h -0.460575 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';letter-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:#2e3436;stroke-width:0.13257764;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path1233" />
+        <path
+           d="m 66.094963,318.20054 q -0.32752,-0.36505 -0.32752,-0.93821 0,-0.57316 0.32752,-0.9382 0.330932,-0.36505 0.866563,-0.36505 0.539043,0 0.869974,0.36505 0.330932,0.36163 0.330932,0.95526 0,0.55269 -0.32752,0.92115 -0.324108,0.36505 -0.869975,0.36505 -0.542454,0 -0.869974,-0.36505 z m 0.869974,-1.80477 q -0.310461,0 -0.498103,0.23882 -0.187641,0.2354 -0.187641,0.62774 0,0.39235 0.187641,0.63116 0.187642,0.23541 0.498103,0.23541 0.30705,0 0.494692,-0.23541 0.191053,-0.2354 0.191053,-0.61751 0,-0.40258 -0.187641,-0.64139 -0.18423,-0.23882 -0.498104,-0.23882 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';letter-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:#2e3436;stroke-width:0.13257764;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path1235" />
+        <path
+           d="m 68.367302,316.37513 q 0,-0.8582 0.581006,-0.8582 0.04213,0 0.08205,0.004 0.03992,0.004 0.106444,0.0266 0.06874,0.0222 0.119749,0.0599 0.05322,0.0377 0.09979,0.11531 0.04879,0.0776 0.06431,0.18406 h -0.288286 q -0.03105,-0.0754 -0.0754,-0.10644 -0.04213,-0.0333 -0.117532,-0.0333 -0.07762,0 -0.130838,0.0333 -0.051,0.031 -0.07761,0.0998 -0.02661,0.0687 -0.0377,0.14192 -0.01109,0.0732 -0.01552,0.18406 0.07318,-0.0754 0.144143,-0.10644 0.07096,-0.0333 0.168536,-0.0333 0.2018,0 0.328202,0.14192 0.12862,0.14193 0.12862,0.36812 0,0.25724 -0.14636,0.4169 -0.144143,0.15967 -0.379207,0.15967 -0.117532,0 -0.21067,-0.0355 -0.09314,-0.0355 -0.175189,-0.11975 -0.07983,-0.0843 -0.124185,-0.24615 -0.04435,-0.1641 -0.04435,-0.39695 z m 0.720714,0.0333 q -0.06431,-0.0776 -0.172972,-0.0776 -0.108661,0 -0.175189,0.082 -0.06653,0.0798 -0.06653,0.21067 0,0.12418 0.06653,0.20402 0.06653,0.0798 0.172972,0.0798 0.104226,0 0.170754,-0.082 0.06875,-0.0821 0.06875,-0.20845 0,-0.13084 -0.06431,-0.20846 z"
+           style="font-size:2.21758199px;baseline-shift:super;stroke-width:0.13257764"
+           id="path1237" />
+        <path
+           d="m 70.688315,316.51706 v 0.25724 h -0.164101 v 0.34816 h -0.310462 v -0.34816 h -0.629793 v -0.26168 l 0.574354,-0.96243 h 0.365901 v 0.96687 z m -0.474563,0 v -0.67193 l -0.410252,0.67193 z"
+           style="font-size:2.21758199px;baseline-shift:super;stroke-width:0.13257764"
+           id="path1239" />
+      </g>
     </g>
     <image
        sodipodi:absref="/home/georg/Datenpartition/Software/Videospiele/GitHub-Projekte/open_videogame_console_graphics/Nintendo/Wii_U/Banners_and_Icons/Wii_U_VC_N64/n64_console.png"
        xlink:href="n64_console.png"
-       y="-124.01384"
-       x="-300.06094"
-       id="image3517"
-       preserveAspectRatio="none"
+       width="1255.5581"
        height="706.25146"
-       width="1255.5581" />
+       preserveAspectRatio="none"
+       id="image3517"
+       x="-300.06094"
+       y="-124.01384" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1930,13 +1964,13 @@
     <image
        sodipodi:absref="/home/georg/Datenpartition/Software/Videospiele/GitHub-Projekte/open_videogame_console_graphics/Nintendo/Wii_U/Banners_and_Icons/Wii_U_VC_N64/./background.png"
        xlink:href="./background.png"
-       clip-path="url(#clipPath5051)"
-       width="720"
-       height="720"
-       preserveAspectRatio="none"
-       id="image5048"
+       y="0"
        x="560"
-       y="0" />
+       id="image5048"
+       preserveAspectRatio="none"
+       height="720"
+       width="720"
+       clip-path="url(#clipPath5051)" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2025,22 +2059,22 @@
     <image
        sodipodi:absref="/home/georg/Datenpartition/Software/Videospiele/GitHub-Projekte/open_videogame_console_graphics/Nintendo/Wii_U/Banners_and_Icons/Wii_U_VC_N64/./cover.png"
        xlink:href="./cover.png"
-       clip-path="url(#clipPath5035)"
-       width="349.47031"
-       height="493.07248"
-       preserveAspectRatio="none"
-       id="image5032"
+       y="101.63058"
        x="103.12686"
-       y="101.63058" />
+       id="image5032"
+       preserveAspectRatio="none"
+       height="493.07248"
+       width="349.47031"
+       clip-path="url(#clipPath5035)" />
     <image
        sodipodi:absref="/home/georg/Datenpartition/Software/Videospiele/GitHub-Projekte/open_videogame_console_graphics/Nintendo/Wii_U/Banners_and_Icons/Wii_U_VC_N64/./logo.png"
        xlink:href="./logo.png"
-       y="237.4106"
-       x="636.89355"
-       id="image476"
-       preserveAspectRatio="none"
+       width="400"
        height="250"
-       width="400" />
+       preserveAspectRatio="none"
+       id="image476"
+       x="636.89355"
+       y="237.4106" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:13.75px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -2276,13 +2310,13 @@
     <image
        sodipodi:absref="/home/georg/Datenpartition/Software/Videospiele/GitHub-Projekte/open_videogame_console_graphics/Nintendo/Wii_U/Banners_and_Icons/Wii_U_VC_N64/n64_gamepad.png"
        xlink:href="n64_gamepad.png"
-       style="display:inline"
-       y="705.22101"
-       x="348.65015"
-       id="image3260"
-       preserveAspectRatio="none"
+       width="345.5018"
        height="345.5018"
-       width="345.5018" />
+       preserveAspectRatio="none"
+       id="image3260"
+       x="348.65015"
+       y="705.22101"
+       style="display:inline" />
     <path
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#555753;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 1215.6565,964.62558 c -2.7187,0.12519 -10.2573,0.68776 -14.1869,3.14149 -0.438,0.27348 -1.0351,2.46774 -1.5542,3.62126 -0.2303,0.51192 -13.2084,-0.0904 -18.3049,6.14757 -4.6163,5.65019 -4.2192,8.92191 -4.3173,13.09523 -0.054,2.28862 -3.707,9.68257 -1.0361,27.24317 0.4367,2.8713 1.1251,6.2316 2.8493,8.2529 1.666,1.953 5.6193,1.7106 7.0802,-1.6842 1.3495,-3.1358 2.4017,-5.6559 3.5401,-9.6004 0.9695,-3.3594 2.287,-9.4021 3.1084,-10.0214 1.1542,-0.8702 6.2762,-0.4811 9.0662,0.6736 1.2761,0.5282 2.8585,1.792 3.1084,2.6949 1.3455,4.8634 2.4684,17.6263 5.0942,26.1063 0.8577,2.77 1.8146,5.5886 3.4538,8.0003 0.4881,0.7181 1.2394,1.1953 2.1022,1.3768 0.8628,0.1815 1.1551,0.1813 2.0178,0 0.8626,-0.1821 1.612,-0.6587 2.0995,-1.3758 1.6392,-2.4118 2.596,-5.2304 3.4537,-8.0004 2.6258,-8.48 3.7488,-21.2429 5.0943,-26.1063 0.2499,-0.9029 1.8323,-2.1666 3.1084,-2.6949 2.79,-1.1547 7.912,-1.5438 9.0662,-0.6736 0.8214,0.6193 2.1387,6.662 3.1083,10.0214 1.1383,3.9445 2.1907,6.4646 3.5402,9.6004 1.4609,3.3948 5.4142,3.6372 7.0802,1.6842 1.7242,-2.0213 2.4126,-5.3816 2.8493,-8.2529 2.6709,-17.5605 -0.9824,-24.95452 -1.0362,-27.24314 -0.098,-4.17332 0.2991,-7.44503 -4.3172,-13.09523 -5.0965,-6.238 -18.0746,-5.63565 -18.3049,-6.14757 -0.5191,-1.15352 -1.1162,-3.34778 -1.5542,-3.62126 -3.9299,-2.45393 -11.4695,-3.01625 -14.1876,-3.14137 v -1.2e-4 c -0.3864,10e-6 -0.361,1.2e-4 -0.8093,1.2e-4 h -0.3992 c -0.4502,0 -0.4251,-1.2e-4 -0.8127,-1.2e-4 z"
