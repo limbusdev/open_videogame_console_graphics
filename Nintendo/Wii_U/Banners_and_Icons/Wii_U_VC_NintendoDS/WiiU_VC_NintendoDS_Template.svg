@@ -17,7 +17,7 @@
    version="1.1"
    inkscape:version="0.92.3 (unknown)"
    sodipodi:docname="WiiU_VC_GameCube_Template.svg"
-   inkscape:export-filename="/home/georg/Datenpartition/Software/Videospiele/GitHub-Projekte/open_videogame_console_graphics/Nintendo/Wii U/Banners_and_Icons/Wii_U_VC_GameCube/bootTvTex.png"
+   inkscape:export-filename="/home/georg/Datenpartition/Software/Videospiele/GitHub-Projekte/open_videogame_console_graphics/Nintendo/Wii_U/Banners_and_Icons/Wii_U_VC_NintendoDS/bootTvTex.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <defs
@@ -892,7 +892,7 @@
        x2="217.87862"
        y2="-9.2731791"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-106.20842,-35.049094)" />
+       gradientTransform="translate(-180.18765,-8.4116965)" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient4736">
@@ -1757,6 +1757,60 @@
          operator="in"
          id="feComposite5174" />
     </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1293">
+      <rect
+         style="display:inline;opacity:0.5;fill:#ef2929;fill-opacity:1;stroke:none;stroke-width:0.69842941;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect1295"
+         width="512.60352"
+         height="458.28519"
+         x="34.931446"
+         y="465.63016"
+         rx="9.0156116"
+         ry="9.0156116"
+         inkscape:export-xdpi="383.55157"
+         inkscape:export-ydpi="383.55157" />
+    </clipPath>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1463"
+       x="-0.46412903"
+       width="1.9282581"
+       y="-0.076941176"
+       height="1.1538824">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.9975"
+         id="feGaussianBlur1465" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1499">
+      <rect
+         style="opacity:1;fill:#f57900;fill-opacity:1;stroke:none;stroke-width:19.90500069;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect1501"
+         width="1043.1472"
+         height="785.73804"
+         x="-2099.1472"
+         y="-1103.738"
+         rx="0"
+         ry="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1503">
+      <rect
+         ry="0"
+         rx="0"
+         y="77.538391"
+         x="-2098.9282"
+         height="785.73804"
+         width="1043.1472"
+         id="rect1505"
+         style="opacity:1;fill:#f57900;fill-opacity:1;stroke:none;stroke-width:19.90500069;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1765,11 +1819,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="858.15057"
-     inkscape:cy="144.12378"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="-42.760509"
+     inkscape:cy="682.22477"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer5"
      showgrid="false"
      units="px"
      inkscape:window-width="1920"
@@ -1784,7 +1838,7 @@
      inkscape:snap-intersection-paths="false"
      inkscape:snap-smooth-nodes="true"
      inkscape:object-nodes="true"
-     inkscape:bbox-paths="false"
+     inkscape:bbox-paths="true"
      inkscape:snap-global="true"
      inkscape:snap-bbox-edge-midpoints="true"
      showborder="false" />
@@ -1806,15 +1860,15 @@
      inkscape:label="Background"
      style="display:inline">
     <image
-       sodipodi:absref="/home/georg/Datenpartition/Software/Videospiele/GitHub-Projekte/open_videogame_console_graphics/Nintendo/Wii_U/Banners_and_Icons/Wii_U_VC_GameCube/icon.png"
+       sodipodi:absref="/home/georg/Datenpartition/Software/Videospiele/GitHub-Projekte/open_videogame_console_graphics/Nintendo/Wii_U/Banners_and_Icons/Wii_U_VC_NintendoDS/icon.png"
        xlink:href="icon.png"
-       width="512"
-       height="512"
-       preserveAspectRatio="none"
-       id="image5148"
-       x="1493.4707"
+       style="filter:url(#filter5176)"
        y="11.375497"
-       style="filter:url(#filter5176)" />
+       x="1493.4707"
+       id="image5148"
+       preserveAspectRatio="none"
+       height="512"
+       width="512" />
     <rect
        clip-path="none"
        inkscape:export-ydpi="24"
@@ -1829,7 +1883,7 @@
        id="rect4661"
        style="display:inline;opacity:0.5;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:50;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <rect
-       style="opacity:1;fill:#5c3566;fill-opacity:1;stroke:none;stroke-width:50;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#babdb6;fill-opacity:1;stroke:none;stroke-width:50;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4752-1"
        width="1280"
        height="720"
@@ -1872,40 +1926,129 @@
        ry="72.73098"
        transform="matrix(0.39999999,0,0,0.39999999,1540.5712,-99.133691)" />
     <image
-       sodipodi:absref="/home/georg/Datenpartition/Software/Videospiele/GitHub-Projekte/open_videogame_console_graphics/Nintendo/Wii_U/Banners_and_Icons/Wii_U_VC_GameCube/icon.png"
+       sodipodi:absref="/home/georg/Datenpartition/Software/Videospiele/GitHub-Projekte/open_videogame_console_graphics/Nintendo/Wii_U/Banners_and_Icons/Wii_U_VC_NintendoDS/icon.png"
        xlink:href="icon.png"
-       y="17.375528"
-       x="1509.4707"
-       id="image5145"
-       preserveAspectRatio="none"
-       height="480"
+       clip-path="url(#clipPath5150)"
        width="480"
-       clip-path="url(#clipPath5150)" />
-    <image
-       sodipodi:absref="/home/georg/Datenpartition/Software/Videospiele/GitHub-Projekte/open_videogame_console_graphics/Nintendo/Wii_U/Banners_and_Icons/Wii_U_VC_GameCube/gc_console_top.png"
-       xlink:href="gc_console_top.png"
-       y="31.741676"
-       x="-297.16098"
-       id="image1200"
+       height="480"
        preserveAspectRatio="none"
-       height="866.10535"
-       width="866.10535"
-       transform="rotate(-15)" />
+       id="image5145"
+       x="1509.4707"
+       y="17.375528" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Background1">
+    <g
+       id="g1531"
+       transform="matrix(0.29201582,-0.0782454,0.0782454,0.29201582,820.1937,202.40312)"
+       style="">
+      <image
+         sodipodi:absref="/home/georg/Datenpartition/Software/Videospiele/GitHub-Projekte/open_videogame_console_graphics/Nintendo/Wii_U/Banners_and_Icons/Wii_U_VC_NintendoDS/nds.png"
+         xlink:href="nds.png"
+         y="-1292"
+         x="-2858"
+         id="image1412"
+         preserveAspectRatio="none"
+         height="2560"
+         width="2560" />
+      <g
+         id="g1517">
+        <g
+           id="g1472">
+          <rect
+             ry="7.75"
+             rx="7.75"
+             y="-150"
+             x="-614"
+             height="93.5"
+             width="15.5"
+             id="rect1415"
+             style="opacity:1;fill:#73d216;fill-opacity:1;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+          <rect
+             style="opacity:1;fill:#73d216;fill-opacity:1;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal;filter:url(#filter1463)"
+             id="rect1417"
+             width="15.5"
+             height="93.5"
+             x="-614"
+             y="-150"
+             rx="7.75"
+             ry="7.75" />
+          <rect
+             ry="7.75"
+             rx="7.75"
+             y="-150"
+             x="-614"
+             height="93.5"
+             width="15.5"
+             id="rect1467"
+             style="opacity:1;fill:#73d216;fill-opacity:1;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal;filter:url(#filter1463)" />
+        </g>
+        <g
+           id="g1480"
+           transform="translate(36.5)"
+           style="fill:#f57900">
+          <rect
+             style="opacity:1;fill:#f57900;fill-opacity:1;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+             id="rect1474"
+             width="15.5"
+             height="93.5"
+             x="-614"
+             y="-150"
+             rx="7.75"
+             ry="7.75" />
+          <rect
+             ry="7.75"
+             rx="7.75"
+             y="-150"
+             x="-614"
+             height="93.5"
+             width="15.5"
+             id="rect1476"
+             style="opacity:1;fill:#f57900;fill-opacity:1;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal;filter:url(#filter1463)" />
+          <rect
+             style="opacity:1;fill:#f57900;fill-opacity:1;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal;filter:url(#filter1463)"
+             id="rect1478"
+             width="15.5"
+             height="93.5"
+             x="-614"
+             y="-150"
+             rx="7.75"
+             ry="7.75" />
+        </g>
+        <image
+           sodipodi:absref="/home/georg/Datenpartition/Software/Videospiele/GitHub-Projekte/open_videogame_console_graphics/Nintendo/Wii_U/Banners_and_Icons/Wii_U_VC_NintendoDS/screenshot.png"
+           xlink:href="screenshot.png"
+           clip-path="url(#clipPath1499)"
+           width="1043.5852"
+           height="1565.3778"
+           preserveAspectRatio="none"
+           id="image1490"
+           x="-2099.1472"
+           y="-1103.738" />
+        <image
+           sodipodi:absref="/home/georg/Datenpartition/Software/Videospiele/GitHub-Projekte/open_videogame_console_graphics/Nintendo/Wii_U/Banners_and_Icons/Wii_U_VC_NintendoDS/screenshot.png"
+           xlink:href="screenshot.png"
+           clip-path="url(#clipPath1503)"
+           y="-702.10138"
+           x="-2099.1472"
+           id="image1493"
+           preserveAspectRatio="none"
+           height="1565.3778"
+           width="1043.5852" />
+      </g>
+    </g>
     <image
-       sodipodi:absref="/home/georg/Datenpartition/Software/Videospiele/GitHub-Projekte/open_videogame_console_graphics/Nintendo/Wii_U/Banners_and_Icons/Wii_U_VC_GameCube/background.png"
+       sodipodi:absref="/home/georg/Datenpartition/Software/Videospiele/GitHub-Projekte/open_videogame_console_graphics/Nintendo/Wii_U/Banners_and_Icons/Wii_U_VC_NintendoDS/background.png"
        xlink:href="background.png"
-       y="0"
-       x="560"
-       id="image5048"
-       preserveAspectRatio="none"
-       height="720"
+       clip-path="url(#clipPath5051)"
        width="720"
-       clip-path="url(#clipPath5051)" />
+       height="720"
+       preserveAspectRatio="none"
+       id="image5048"
+       x="560"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1928,24 +2071,6 @@
        clip-path="url(#clipPath4526)"
        transform="translate(0,-332.36216)" />
     <rect
-       style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect4963"
-       width="349.47031"
-       height="493.07248"
-       x="103.12676"
-       y="125.0752"
-       rx="5.78298"
-       ry="5.78298" />
-    <rect
-       style="opacity:1;fill:#2e3436;fill-opacity:1;stroke:#000000;stroke-width:1.53175676;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect4449"
-       width="349.47031"
-       height="493.07248"
-       x="103.12676"
-       y="122.35291"
-       rx="5.78298"
-       ry="5.78298" />
-    <rect
        style="opacity:0.5;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.77165353;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4150"
        width="1156.5714"
@@ -1966,50 +2091,22 @@
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.77165353;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter4199)"
        clip-path="url(#clipPath4219)"
        transform="matrix(0.8,0,0,0.8,128,-229.19398)" />
-    <rect
-       ry="5.78298"
-       rx="5.78298"
-       y="112.35291"
-       x="103.12676"
-       height="493.07248"
-       width="349.47031"
-       id="rect4961"
-       style="opacity:1;fill:#2e3436;fill-opacity:1;stroke:#000000;stroke-width:1.53175676;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    <rect
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.53175676;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect4543"
-       width="349.47031"
-       height="493.07248"
-       x="103.12676"
-       y="101.63058"
-       rx="5.78298"
-       ry="5.78298" />
     <path
-       transform="translate(0,-332.36216)"
        sodipodi:nodetypes="sssssssss"
        inkscape:connector-curvature="0"
        id="path4657"
-       d="m 490.42773,517.4876 c -7.19834,0 -12.21289,5.01454 -12.21289,12.21289 l 0,330.14453 c 0,7.19834 5.01455,12.21289 12.21289,12.21289 l 692.93167,0 c 7.1983,0 12.2129,-5.01455 12.2129,-12.21289 l 0,-330.14453 c 0,-7.19835 -5.0146,-12.21289 -12.2129,-12.21289 z"
-       style="opacity:0.75;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:50;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       d="m 584.42773,517.4876 c -7.19834,0 -12.21289,5.01454 -12.21289,12.21289 v 330.14453 c 0,7.19834 5.01455,12.21289 12.21289,12.21289 h 598.93167 c 7.1983,0 12.2129,-5.01455 12.2129,-12.21289 V 529.70049 c 0,-7.19835 -5.0146,-12.21289 -12.2129,-12.21289 z"
+       style="opacity:0.75;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:50;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="translate(0,-332.36216)" />
     <image
-       sodipodi:absref="/home/georg/Datenpartition/Software/Videospiele/GitHub-Projekte/open_videogame_console_graphics/Nintendo/Wii_U/Banners_and_Icons/Wii_U_VC_GameCube/cover.png"
-       xlink:href="cover.png"
-       y="101.63058"
-       x="103.12686"
-       id="image5032"
-       preserveAspectRatio="none"
-       height="493.07248"
-       width="349.47031"
-       clip-path="url(#clipPath5035)" />
-    <image
-       sodipodi:absref="/home/georg/Datenpartition/Software/Videospiele/GitHub-Projekte/open_videogame_console_graphics/Nintendo/Wii_U/Banners_and_Icons/Wii_U_VC_GameCube/logo.png"
+       sodipodi:absref="/home/georg/Datenpartition/Software/Videospiele/GitHub-Projekte/open_videogame_console_graphics/Nintendo/Wii_U/Banners_and_Icons/Wii_U_VC_NintendoDS/logo.png"
        xlink:href="logo.png"
-       width="400"
-       height="250"
-       preserveAspectRatio="none"
+       y="237.4106"
+       x="683.89355"
        id="image476"
-       x="636.89355"
-       y="237.4106" />
+       preserveAspectRatio="none"
+       height="250"
+       width="400" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:13.75px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -2131,158 +2228,345 @@
     <g
        id="BOTTOM_LEFT_LINE"
        transform="matrix(0.02582806,0,0,0.02582806,1233.7677,1112.2055)" />
+    <g
+       id="g1194"
+       transform="matrix(4.6374058,0,0,4.6374058,1102.564,-165.79535)">
+      <rect
+         ry="0.96391487"
+         rx="0.96391487"
+         y="244.08328"
+         x="16.933332"
+         height="15.875001"
+         width="15.875"
+         id="rect1013"
+         style="opacity:1;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:0.37417734;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         ry="0.52916676"
+         rx="0.52916676"
+         y="244.61246"
+         x="17.4625"
+         height="14.816667"
+         width="14.816667"
+         id="rect1356"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.08769808;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         ry="0"
+         rx="0"
+         y="251.49161"
+         x="17.4625"
+         height="1.0583355"
+         width="14.816667"
+         id="rect1358"
+         style="opacity:1;fill:#babdb6;fill-opacity:1;stroke:none;stroke-width:0.08769808;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="245.14163"
+         x="20.108332"
+         height="5.820838"
+         width="9.5250006"
+         id="rect1360"
+         style="opacity:1;fill:#555753;fill-opacity:1;stroke:none;stroke-width:0.08769808;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="253.07913"
+         x="21.166666"
+         height="5.2916684"
+         width="7.4083333"
+         id="rect1362"
+         style="opacity:1;fill:#555753;fill-opacity:1;stroke:none;stroke-width:0.08769808;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <ellipse
+         ry="0.79376453"
+         rx="0.79375005"
+         cy="254.40207"
+         cx="18.785416"
+         id="path911"
+         style="opacity:1;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:0.28063563;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="256.25412"
+         x="19.049999"
+         height="1.5875"
+         width="0.52916664"
+         id="rect919"
+         style="opacity:1;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:0.37417734;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="256.78329"
+         x="18.520832"
+         height="0.52916664"
+         width="1.5875"
+         id="rect921"
+         style="opacity:1;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:0.37417734;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="0.52916664"
+         cy="253.60831"
+         cx="30.691666"
+         id="path923"
+         style="opacity:1;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:0.37417734;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="0.52916664"
+         cy="254.6666"
+         cx="29.633331"
+         id="path925"
+         style="opacity:1;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:0.37417734;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="0.52916664"
+         cy="255.72495"
+         cx="30.691666"
+         id="path927"
+         style="opacity:1;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:0.37417734;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="0.52916664"
+         cy="254.6666"
+         cx="31.749998"
+         id="path929"
+         style="opacity:1;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:0.37417734;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="0.26458332"
+         cy="257.04788"
+         cx="29.36875"
+         id="path931"
+         style="opacity:1;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:0.37417734;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="0.26458332"
+         cy="258.10617"
+         cx="29.36875"
+         id="path933"
+         style="opacity:1;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:0.37417734;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="0.79374999"
+         cy="247.52286"
+         cx="18.785416"
+         id="path935"
+         style="opacity:1;fill:#d3d7cf;fill-opacity:1;stroke:none;stroke-width:0.37417734;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="0.79374999"
+         cy="247.52286"
+         cx="30.956247"
+         id="path937"
+         style="opacity:1;fill:#d3d7cf;fill-opacity:1;stroke:none;stroke-width:0.37417734;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         ry="0"
+         rx="0"
+         y="245.67081"
+         x="20.637499"
+         height="4.7624998"
+         width="8.4666662"
+         id="rect939"
+         style="opacity:1;fill:#d3d7cf;fill-opacity:1;stroke:none;stroke-width:0.37417734;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="253.60831"
+         x="21.695833"
+         height="4.2333331"
+         width="6.3499999"
+         id="rect941"
+         style="opacity:1;fill:#d3d7cf;fill-opacity:1;stroke:none;stroke-width:0.37417734;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
     <path
-       style="display:inline;fill:#2e3436;stroke:none;stroke-width:0.34023857px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1631.7275,780.57365 -28.1526,16.31996 v 32.47361 l 28.083,16.17421 28.2849,-16.22858 -0.083,-32.41924 -0.7296,-0.53085 -15.0939,8.67578 -12.3886,-6.99314 -13.0039,7.34573 -0.2084,15.34695 13.2224,7.64312 13.153,-7.75077 v -4.19893 l 5.5436,-3.20512 v 10.50286 l -18.6966,10.82722 -18.5532,-10.78138 0.019,-21.24347 18.6926,-10.81947 12.4976,7.28626 8.6566,-5.07647 v -1.03217 z"
-       id="path2242"
+       id="path100608"
+       style="fill:#2e3436;fill-rule:nonzero;stroke:none;stroke-width:0.45484686"
+       d="m 1787.5286,828.44667 c 0,0.49088 -0.4026,0.93271 -0.8984,0.93271 h -17.1917 c -0.5007,0 -0.9033,-0.44183 -0.9033,-0.93271 v -12.42006 c 0,-0.49088 0.4026,-0.88366 0.9033,-0.88366 h 17.1917 c 0.4958,0 0.8984,0.39278 0.8984,0.88366 z m -0.7462,-17.03464 h -17.501 c -2.5331,0 -4.5998,2.06185 -4.5998,4.61458 v 12.46911 c 0,2.50368 2.0667,4.61458 4.5998,4.61458 h 17.501 c 2.538,0 4.5998,-2.1109 4.5998,-4.61458 v -12.46911 c 0,-2.55273 -2.0618,-4.61458 -4.5998,-4.61458"
        inkscape:connector-curvature="0" />
-    <polygon
-       id="polygon4307-9"
-       points="-28.812,144.312 -27.834,144.312 -27.842,124.742 15.25,98.583 14.104,97.729 -28.812,123.688 "
-       display="inline"
-       style="display:inline;fill:#2e3436;stroke:none"
-       transform="matrix(0.02786621,0,0,0.02786621,1742.054,811.34726)" />
     <path
-       id="path4312"
-       d="m 1692.9923,813.4289 v 4.78175 h -19.7908 v 12.21402 h 14.4201 v -3.38449 h -8.3144 v -5.11351 h 14.0529 c 0,0 0,5.57613 0,9.32682 -0.061,1.56326 -3.1852,4.68873 -4.9297,4.68873 -3.2374,0 -11.9891,0 -16.1027,0 -2.2682,0 -5.3803,-3.11162 -5.3803,-4.68179 0,-4.77348 0,-9.42386 0,-13.49114 0,-2.62766 1.7133,-4.34042 3.9454,-4.34042 3.6972,3e-5 22.0995,3e-5 22.0995,3e-5 z"
-       inkscape:connector-curvature="0"
-       style="fill:#2e3436;stroke:none;stroke-width:0.02786621" />
-    <polygon
-       id="polygon4314"
-       points="294.574,65.119 294.574,870.081 89.602,870.081 88.626,461.17 -149.016,870.081 -323.251,870.081 -559.888,460.175 -560.864,870.081 -910.359,870.081 -1233.153,318.598 -1447.011,679.96 -1210.374,680.018 -1210.374,870.081 -1795.501,870.081 -1320.266,65.119 -1132.163,65.119 -767.807,679.96 -767.807,65.119 -560.864,65.119 -235.153,616.632 89.602,65.119 "
-       transform="matrix(0.02786621,0,0,0.02786621,1742.054,811.34726)"
-       style="fill:#2e3436;stroke:none" />
-    <polygon
-       id="polygon4316"
-       points="370.795,870.081 1196.52,870.081 1196.52,679.96 594.541,679.96 594.541,541.348 943.051,541.348 943.051,365.133 594.541,365.133 594.541,238.398 1196.52,238.398 1196.52,65.119 370.795,65.119 "
-       transform="matrix(0.02786621,0,0,0.02786621,1742.054,811.34726)"
-       style="fill:#2e3436;stroke:none" />
-    <path
-       id="path4318"
-       d="m 1798.3881,821.98213 h 5.7382 V 817.126 c 0,0 0.6258,-3.99079 -3.5316,-3.99079 0,0 -13.3525,0 -18.0972,0 -1.7829,0 -2.6293,0.84665 -2.6293,2.20686 0,2.29933 0,11.01855 0,15.89114 0,2.2269 2.1331,4.36047 3.4948,4.36047 3.9725,0 17.713,0 17.713,0 0,0 3.0844,0.42104 3.0844,-3.03595 0,-3.45805 0,-6.60322 0,-6.60322 h -5.7521 v 4.37748 h -12.8024 V 818.4313 h 12.343 v 3.54974 z"
-       inkscape:connector-curvature="0"
-       style="fill:#2e3436;stroke:none;stroke-width:0.02786621" />
-    <path
-       id="path4320"
-       d="m 1806.3521,813.13419 h 6.18 v 17.21695 h 12.7881 v -17.21695 h 6.187 v 18.55423 c 0,0 0.3933,3.97347 -5.29,3.97347 -5.6833,0 -15.0085,0 -15.0085,0 0,0 -4.8561,0.44133 -4.8561,-3.97347 -3e-4,-3.07538 -3e-4,-18.55423 -3e-4,-18.55423 z"
-       inkscape:connector-curvature="0"
-       style="fill:#2e3436;stroke:none;stroke-width:0.02786621" />
-    <path
-       id="path4325"
-       d="m 1857.9916,826.36066 v 5.76963 c 0,2.0435 -1.5009,3.5444 -6.1848,3.5444 -4.1537,0 -18.0946,0 -18.0946,0 v -22.53948 c 0,0 18.3157,0 21.1982,0 1.9507,0 3.0817,1.13024 3.0817,3.09056 0,1.59364 0,5.53034 0,6.17097 0,0.48984 -0.6667,1.33353 -2.1985,1.33353 0.01,0.10503 0,0 0,0.42748 1.0281,3e-5 2.198,1.16943 2.198,2.20291 z m -5.7392,3.55341 c 0,-0.52019 0,-1.90278 0,-2.63508 0,-0.72807 -0.1717,-0.90023 -0.4419,-0.90023 -0.5516,0 -11.9097,0 -11.9097,0 v 3.97238 c 0,0 8.5599,0 11.4774,0 0.6359,0 0.8742,-0.23826 0.8742,-0.43707 z m 0,-8.82844 c 0,-0.52128 0,-1.90282 0,-2.63566 0,-0.72811 -0.1717,-0.90023 -0.4419,-0.90023 -0.5516,0 -11.9097,0 -11.9097,0 v 3.97293 c 0,0 8.5599,0 11.4774,0 0.6359,0 0.8742,-0.23878 0.8742,-0.43704 z"
-       inkscape:connector-curvature="0"
-       style="fill:#2e3436;stroke:none;stroke-width:0.02786621" />
-    <polygon
-       id="polygon4327"
-       points="5063.774,872.97 5063.774,680.955 4444.965,680.955 4444.965,540.373 4793.493,540.373 4793.493,365.133 4444.965,365.133 4444.965,238.398 5047.917,238.398 5047.917,63.139 4239.045,63.139 4239.045,872.97 "
-       transform="matrix(0.02786621,0,0,0.02786621,1742.054,811.34726)"
-       style="fill:#2e3436;stroke:none" />
-    <polygon
-       id="polygon4329"
-       points="5158.835,712.955 5206.996,712.955 5206.996,872.97 5253.226,872.97 5253.226,714.312 5300.738,714.312 5300.738,681.969 5158.835,681.969 "
-       transform="matrix(0.02786621,0,0,0.02786621,1742.054,811.34726)"
-       style="fill:#2e3436;stroke:none" />
-    <polygon
-       id="polygon4331"
-       points="5507.345,681.969 5442.659,681.969 5412.304,792.178 5380.61,681.969 5317.262,681.969 5317.262,872.97 5364.124,872.97 5364.124,777.488 5395.759,872.97 5427.473,872.97 5459.164,777.488 5459.164,872.97 5507.345,872.97 "
-       transform="matrix(0.02786621,0,0,0.02786621,1742.054,811.34726)"
-       style="fill:#2e3436;stroke:none" />
-    <polygon
-       id="polygon4334"
-       points="-2413.317,-600.188 -2175.704,-158.627 -2049.964,-158.627 -2049.964,-759.602 -2176.68,-759.602 -2176.68,-397.244 -2366.781,-759.602 -2524.215,-759.602 -2524.215,-158.627 -2413.317,-158.627 "
-       transform="matrix(0.02786621,0,0,0.02786621,1742.054,811.34726)"
-       style="fill:#2e3436;stroke:none" />
-    <polygon
-       id="polygon4336"
-       points="-512.549,-600.188 -274.926,-158.627 -149.187,-158.627 -149.187,-759.602 -275.912,-759.602 -275.912,-397.244 -465.995,-759.602 -623.417,-759.602 -623.417,-158.627 -512.549,-158.627 "
-       transform="matrix(0.02786621,0,0,0.02786621,1742.054,811.34726)"
-       style="fill:#2e3436;stroke:none" />
-    <rect
-       id="rect4338"
-       height="16.746895"
-       width="3.5246851"
-       y="790.18005"
-       x="1703.0488"
-       style="fill:#2e3436;stroke:none;stroke-width:0.02786621" />
-    <polygon
-       id="polygon4340"
-       points="373.453,-664.551 563.517,-664.551 563.517,-158.627 691.571,-158.627 691.571,-664.551 880.354,-664.551 880.354,-759.602 373.453,-759.602 "
-       transform="matrix(0.02786621,0,0,0.02786621,1742.054,811.34726)"
-       style="fill:#2e3436;stroke:none" />
-    <path
-       id="path4342"
-       d="m 1782.9559,796.35128 v 0.45013 h 9.7111 v 2.64869 h -9.7111 c 0,0 0,2.58714 0,3.53185 0,0.37977 0.9316,1.31036 1.3106,1.31036 1.1172,0 8.4005,0 8.4005,0 v 2.67216 c 0,0 -7.1363,0 -9.7111,0 -1.8165,0 -3.0994,-1.56084 -3.0994,-3.09933 0,-0.36753 0,-7.94563 0,-10.60364 0,-1.92599 1.1545,-3.08151 3.0812,-3.08151 h 9.7293 v 2.64873 c 0,0 -5.8672,0 -7.9453,0 -0.8464,0 -1.7658,0.92017 -1.7658,1.35248"
-       inkscape:connector-curvature="0"
-       style="fill:#2e3436;stroke:none;stroke-width:0.02786621" />
-    <polygon
-       id="polygon4344"
-       points="2734.106,-157.298 2845.023,-157.298 2845.023,-759.602 2735.102,-759.602 2735.102,-397.244 2530.157,-759.602 2386.591,-759.602 2386.591,-157.298 2496.476,-157.298 2496.476,-599.213 "
-       transform="matrix(0.02786621,0,0,0.02786621,1742.054,811.34726)"
-       style="fill:#2e3436;stroke:none" />
-    <path
-       id="path4349"
-       d="m 1850.5223,793.27031 v 10.62096 c 0,0.80317 -2.2685,3.07215 -3.5839,3.07215 -2.6495,0 -9.685,0 -9.685,0 v -16.78339 c 0,0 6.8687,0 8.8018,0 2.7364,0 4.4671,1.73062 4.4671,3.09028 z m -3.1255,9.72048 c 0,-1.14779 0,-6.37008 0,-8.81119 0,-0.30911 -1.0415,-1.35085 -1.7701,-1.35085 -1.3378,0 -5.2841,0 -5.2841,0 v 11.9188 c 0,0 3.7742,0 5.2975,0 0.543,0 1.7567,-1.21391 1.7567,-1.75676 z"
-       inkscape:connector-curvature="0"
-       style="fill:#2e3436;stroke:none;stroke-width:0.02786621" />
-    <path
-       id="path4354"
-       d="m 1879.1977,794.15323 c 0,1.22748 0,6.37434 0,8.80262 0,2.53787 -1.9064,4.4409 -4.8288,4.4409 -0.013,0 -0.022,0 -0.036,0 -2.5114,0 -1.7913,0 -4.4046,0 h -0.036 c -2.8248,0 -4.6962,-1.77061 -4.8246,-4.17568 0,-0.0885 0,-0.177 0,-0.26468 0,-1.67785 0,-7.14208 0,-8.80234 0,-0.30462 0,-0.48106 0,-0.48106 0,-1.6864 1.8186,-3.50494 3.9596,-3.50494 1.5846,0 6.18,0 6.18,0 2.5909,0 3.9943,1.39883 3.9943,3.98518 z m -3.5534,8.40076 c 0,-0.41522 0,-7.21298 0,-7.95916 0,-0.64897 -1.1299,-1.77914 -1.7653,-1.77914 -0.6353,0 -3.5055,0 -3.5055,0 -0.9093,0 -1.7914,0.88315 -1.7914,1.70823 0,0.53857 0,7.18635 0,8.02953 0,1.2581 0.4808,1.73944 1.3368,1.73944 0.7856,0 2.9405,0 3.9868,0 0.8559,0 1.7386,-0.88238 1.7386,-1.7389 z"
-       inkscape:connector-curvature="0"
-       style="fill:#2e3436;stroke:none;stroke-width:0.02786621" />
-    <polygon
-       id="polygon4371-3"
-       points="-3954.003,63.062 -3953.372,66.965 -3959.521,66.965 -3957.465,63.062 "
-       style="fill:#2e3436;stroke:none"
-       transform="matrix(0.02786621,0,0,0.02786621,1742.054,811.34726)" />
-    <path
-       id="path4454-0"
-       d="M 1603.5749,796.89362"
-       inkscape:connector-curvature="0"
-       style="fill:#2e3436;stroke:none;stroke-width:0.02786621" />
-    <path
-       id="path4461-7"
-       d="M 1603.6871,796.78113"
-       inkscape:connector-curvature="0"
-       style="fill:#2e3436;stroke:none;stroke-width:0.02786621" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path1315"
-       d="m 1214.9112,967.29966 -28.1526,16.31996 v 32.47368 l 28.083,16.1742 28.2849,-16.2286 -0.083,-32.41928 -0.7296,-0.53085 -15.0939,8.67578 -12.3886,-6.99314 -13.0039,7.34573 -0.2084,15.34696 13.2224,7.6431 13.153,-7.7507 v -4.199 l 5.5436,-3.20513 v 10.50293 l -18.6966,10.8272 -18.5532,-10.7814 0.019,-21.24348 18.6926,-10.81947 12.4976,7.28626 8.6566,-5.07647 v -1.03217 z"
-       style="display:inline;fill:#555753;stroke:none;stroke-width:0.34023857px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:52.13004303px;line-height:1.25;font-family:sans-serif;letter-spacing:17.91970253px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:round"
-       x="28.627548"
-       y="1032.7793"
-       id="text1210"><tspan
-         sodipodi:role="line"
-         id="tspan1208"
-         x="28.627548"
-         y="1032.7793"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Italic';letter-spacing:2.60650206px;fill:#ffffff;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:round">Nintendont</tspan></text>
-    <path
-       style="fill:none;stroke:#ffffff;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 233.69879,1011.35 12.02082,17.3241"
-       id="path1212"
+       id="path100618"
+       style="fill:#2e3436;fill-rule:nonzero;stroke:none;stroke-width:0.45484686"
+       d="m 1586.0195,792.75745 c 0,0 0,15.80733 0,16.05273 -0.2111,0 -3.7997,0 -4.0157,0 0,-0.2454 0,-21.45279 0,-21.69819 0.2259,0 3.3284,0 3.4315,0 l 16.2639,15.80732 c 0,0 0,-15.56192 0,-15.80732 0.2209,0 3.2154,0 3.2154,0 0,0 0.5695,0 0.7462,0 0,0.2454 0,21.45279 0,21.69819 -0.216,0 -3.0289,0 -3.1369,0 l -16.5044,-16.05273"
        inkscape:connector-curvature="0" />
-    <image
-       sodipodi:absref="/home/georg/Datenpartition/Software/Videospiele/GitHub-Projekte/open_videogame_console_graphics/Nintendo/Wii_U/Banners_and_Icons/Wii_U_VC_GameCube/gc_pad_p.png"
-       xlink:href="gc_pad_p.png"
-       y="619.42621"
-       x="300.9234"
-       id="image4914"
-       preserveAspectRatio="none"
-       height="426.93597"
-       width="426.93597" />
+    <path
+       id="path100622"
+       style="fill:#2e3436;fill-rule:nonzero;stroke:none;stroke-width:0.02274234;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 1626.2791,792.75745 c 0,0 0,15.80733 0,16.05273 -0.216,0 -3.7948,0 -4.0157,0 0,-0.2454 0,-21.45279 0,-21.69819 0.2259,0 3.3235,0 3.4266,0 l 16.2639,15.80732 c 0,0 0,-15.56192 0,-15.80732 0.2209,0 3.2203,0 3.2203,0 0,0 0.5744,0 0.7462,0 0,0.2454 0,21.45279 0,21.69819 -0.2209,0 -3.0289,0 -3.1369,0 l -16.5044,-16.05273"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path100626"
+       style="fill:#2e3436;fill-rule:nonzero;stroke:none;stroke-width:0.02274234;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 1709.7192,792.75745 c 0,0 0,15.80733 0,16.05273 -0.2209,0 -3.7947,0 -4.0156,0 0,-0.2454 0,-21.45279 0,-21.69819 0.2258,0 3.3283,0 3.4265,0 l 16.2639,15.80732 c 0,0 0,-15.56192 0,-15.80732 0.2209,0 3.2204,0 3.2204,0 0,0 0.5743,0 0.7461,0 0,0.2454 0,21.45279 0,21.69819 -0.2209,0 -3.0289,0 -3.132,0 l -16.5093,-16.05273"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path100630"
+       style="fill:#2e3436;fill-rule:nonzero;stroke:none;stroke-width:0.02274234;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 1615.2238,787.11199 c 0,0 0.5694,0 0.7412,0 0,0.2454 0,21.45279 0,21.69819 -0.211,0 -3.7996,0 -4.0156,0 0,-0.2454 0,-21.45279 0,-21.69819 0.2209,0 3.2744,0 3.2744,0"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path100634"
+       style="fill:#2e3436;fill-rule:nonzero;stroke:none;stroke-width:0.02274234;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 1673.2691,787.11199 c 0,0 0.5596,0 0.7363,0 0,0.19635 0,3.53449 0,3.73084 -0.2356,0 -9.6807,0 -9.6807,0 0,0 0,17.72195 0,17.96735 -0.216,0 -3.9568,0 -4.1728,0 0,-0.2454 0,-17.96735 0,-17.96735 0,0 -9.4451,0 -9.6807,0 0,-0.19635 0,-3.53449 0,-3.73084 0.2405,0 22.7979,0 22.7979,0"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path100638"
+       style="fill:#2e3436;fill-rule:nonzero;stroke:none;stroke-width:0.02274234;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 1698.9928,787.11199 c 0,0 0.5793,0 0.7511,0 0,0.19635 0,3.53449 0,3.73084 -0.2307,0 -17.2113,0 -17.2113,0 v 4.86005 c 0,0 13.0876,0 13.3135,0 0,0.24548 0,3.48544 0,3.73092 -0.2259,0 -13.3135,0 -13.3135,0 v 5.64546 c 0,0 16.9806,0 17.2113,0 0,0.19643 0,3.48552 0,3.73092 -0.2307,0 -20.957,0 -21.1877,0 0,-0.2454 0,-21.45279 0,-21.69819 0.2307,0 20.4366,0 20.4366,0"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path100642"
+       style="fill:#2e3436;fill-rule:nonzero;stroke:none;stroke-width:0.02274234;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 1751.6872,805.07926 h -12.3317 v -14.23643 h 12.3317 c 3.8585,0 5.2282,3.82917 5.2282,7.11825 0,3.24004 -1.3697,7.11818 -5.2282,7.11818 z m 6.588,-14.77636 c -1.5709,-2.11098 -3.8929,-3.19091 -6.7009,-3.19091 0,0 -15.8565,0 -16.0921,0 0,0.2454 0,21.45279 0,21.69819 0.2356,0 16.0921,0 16.0921,0 2.808,0 5.13,-1.12906 6.7009,-3.19091 1.4727,-1.91455 2.2533,-4.56545 2.2533,-7.65819 0,-3.09273 -0.7806,-5.74364 -2.2533,-7.65818"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path100646"
+       style="fill:#2e3436;fill-rule:nonzero;stroke:none;stroke-width:0.02274234;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 1787.5286,804.19568 c 0,0.44175 -0.4026,0.88358 -0.8984,0.88358 h -17.1917 c -0.5007,0 -0.9033,-0.44183 -0.9033,-0.88358 v -12.46919 c 0,-0.49088 0.4026,-0.88366 0.9033,-0.88366 h 17.1917 c 0.4958,0 0.8984,0.39278 0.8984,0.88366 z m -0.7462,-17.08369 h -17.501 c -2.5331,0 -4.5998,2.06177 -4.5998,4.6145 v 12.46919 c 0,2.55273 2.0667,4.6145 4.5998,4.6145 h 17.501 c 2.538,0 4.5998,-2.06177 4.5998,-4.6145 v -12.46919 c 0,-2.55273 -2.0618,-4.6145 -4.5998,-4.6145"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path100656"
+       style="fill:#2e3436;fill-rule:nonzero;stroke:none;stroke-width:0.02274234;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 1859.6826,823.93027 c 4.163,1.66907 12.9552,2.99456 19.8181,2.99456 7.5109,0 10.6184,-2.55273 10.6184,-5.79276 0,-2.94544 -2.8866,-4.61458 -11.178,-7.65819 -11.0897,-4.07457 -19.2241,-7.3146 -19.2241,-14.62921 0,-7.51089 9.7888,-11.97816 24.7076,-11.97816 8.0116,0 10.7607,0.49088 15.8466,1.42367 l 0.039,7.16723 c -4.9975,-0.93271 -9.4255,-2.55273 -16.3032,-2.55273 -7.3735,0 -10.5153,2.35637 -10.5153,4.76188 0,3.48543 4.8404,5.1545 13.3282,8.19819 11.8162,4.22187 18.3895,7.46183 18.3895,14.58001 0,7.36373 -8.2325,12.66554 -26.7988,12.66554 -7.6238,0 -12.8815,-0.49088 -18.7282,-1.47272 v -7.70731"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path100660"
+       style="fill:#2e3436;fill-rule:nonzero;stroke:none;stroke-width:0.02274234;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 1820.1643,793.19921 h -8.8364 v 33.48014 h 8.8364 c 13.5639,0 22.1205,-5.84181 22.1205,-16.69098 0,-10.8491 -8.5566,-16.78916 -22.1205,-16.78916 z m 23.7159,36.57288 c -4.3691,1.96367 -12.636,3.24004 -19.8622,3.24004 h -27.6187 v -46.04744 h 27.6187 c 7.2262,0 15.4931,1.27636 19.872,3.23996 10.6381,4.81093 14.1039,12.51831 14.1039,19.78372 0,7.26548 -3.4364,14.97279 -14.1137,19.78372"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path100678"
+       style="fill:#2e3436;fill-rule:nonzero;stroke:none;stroke-width:0.02274234;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 1907.9834,826.13935 h -1.7722 v -0.63818 h 4.3151 v 0.63818 h -1.782 v 5.15458 h -0.7609 v -5.15458"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path100682"
+       style="fill:#2e3436;fill-rule:nonzero;stroke:none;stroke-width:0.02274234;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 1916.0588,828.7412 c -0.044,-0.78548 -0.093,-1.76724 -0.093,-2.50368 h -0.02 c -0.2062,0.68731 -0.4419,1.42367 -0.7364,2.20915 l -1.026,2.84726 h -0.5695 l -0.9523,-2.79821 c -0.275,-0.83453 -0.5008,-1.57089 -0.6628,-2.2582 h -0.02 c -0.015,0.73644 -0.059,1.7182 -0.108,2.55273 l -0.1571,2.50368 h -0.7167 l 0.4075,-5.79276 h 0.9572 l 0.9917,2.7982 c 0.2405,0.73636 0.432,1.37454 0.589,1.96367 h 0.015 c 0.1571,-0.58913 0.3633,-1.22731 0.6235,-1.96367 l 1.0358,-2.7982 h 0.9572 l 0.3633,5.79276 h -0.7412 l -0.1375,-2.55273"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g1561"
+       transform="matrix(0.8760483,0,0,0.8760483,300.98813,132.23579)">
+      <g
+         transform="matrix(0.86863065,0,0,0.86863065,-181.56473,-34.412077)"
+         style="fill:#ffffff"
+         id="g1332">
+        <path
+           inkscape:connector-curvature="0"
+           d="m 467.93401,1220.5548 c 0,0.4909 -0.4026,0.9327 -0.8984,0.9327 h -17.1917 c -0.5007,0 -0.9033,-0.4418 -0.9033,-0.9327 v -12.4201 c 0,-0.4909 0.4026,-0.8836 0.9033,-0.8836 h 17.1917 c 0.4958,0 0.8984,0.3927 0.8984,0.8836 z m -0.7462,-17.0347 h -17.501 c -2.5331,0 -4.5998,2.0619 -4.5998,4.6146 v 12.4691 c 0,2.5037 2.0667,4.6146 4.5998,4.6146 h 17.501 c 2.538,0 4.5998,-2.1109 4.5998,-4.6146 v -12.4691 c 0,-2.5527 -2.0618,-4.6146 -4.5998,-4.6146"
+           style="fill:#ffffff;fill-rule:nonzero;stroke:none;stroke-width:0.45484686"
+           id="path1314" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 467.93401,1196.3038 c 0,0.4417 -0.4026,0.8836 -0.8984,0.8836 h -17.1917 c -0.5007,0 -0.9033,-0.4419 -0.9033,-0.8836 v -12.4692 c 0,-0.4909 0.4026,-0.8837 0.9033,-0.8837 h 17.1917 c 0.4958,0 0.8984,0.3928 0.8984,0.8837 z m -0.7462,-17.0837 h -17.501 c -2.5331,0 -4.5998,2.0618 -4.5998,4.6145 v 12.4692 c 0,2.5527 2.0667,4.6145 4.5998,4.6145 h 17.501 c 2.538,0 4.5998,-2.0618 4.5998,-4.6145 v -12.4692 c 0,-2.5527 -2.0618,-4.6145 -4.5998,-4.6145"
+           style="fill:#ffffff;fill-rule:nonzero;stroke:none;stroke-width:0.02274234;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path1316" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 540.08801,1216.0384 c 4.163,1.669 12.9552,2.9945 19.8181,2.9945 7.5109,0 10.6184,-2.5527 10.6184,-5.7927 0,-2.9455 -2.8866,-4.6146 -11.178,-7.6582 -11.0897,-4.0746 -19.2241,-7.3146 -19.2241,-14.6292 0,-7.5109 9.7888,-11.9782 24.7076,-11.9782 8.0116,0 10.7607,0.4909 15.8466,1.4237 l 0.039,7.1672 c -4.9975,-0.9327 -9.4255,-2.5527 -16.3032,-2.5527 -7.3735,0 -10.5153,2.3564 -10.5153,4.7619 0,3.4854 4.8404,5.1545 13.3282,8.1982 11.8162,4.2218 18.3895,7.4618 18.3895,14.58 0,7.3637 -8.2325,12.6655 -26.7988,12.6655 -7.6238,0 -12.8815,-0.4909 -18.7282,-1.4727 v -7.7073"
+           style="fill:#ffffff;fill-rule:nonzero;stroke:none;stroke-width:0.02274234;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path1318" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 500.56971,1185.3073 h -8.8364 v 33.4802 h 8.8364 c 13.5639,0 22.1205,-5.8419 22.1205,-16.691 0,-10.8491 -8.5566,-16.7892 -22.1205,-16.7892 z m 23.7159,36.5729 c -4.3691,1.9637 -12.636,3.24 -19.8622,3.24 h -27.6187 v -46.0474 h 27.6187 c 7.2262,0 15.4931,1.2764 19.872,3.24 10.6381,4.8109 14.1039,12.5183 14.1039,19.7837 0,7.2655 -3.4364,14.9728 -14.1137,19.7837"
+           style="fill:#ffffff;fill-rule:nonzero;stroke:none;stroke-width:0.02274234;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path1320" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 588.38881,1218.2475 h -1.7722 v -0.6382 h 4.3151 v 0.6382 h -1.782 v 5.1545 h -0.7609 v -5.1545"
+           style="fill:#ffffff;fill-rule:nonzero;stroke:none;stroke-width:0.02274234;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path1322" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 596.46421,1220.8493 c -0.044,-0.7855 -0.093,-1.7672 -0.093,-2.5037 h -0.02 c -0.2062,0.6873 -0.4419,1.4237 -0.7364,2.2092 l -1.026,2.8472 h -0.5695 l -0.9523,-2.7982 c -0.275,-0.8345 -0.5008,-1.5709 -0.6628,-2.2582 h -0.02 c -0.015,0.7365 -0.059,1.7182 -0.108,2.5528 l -0.1571,2.5036 h -0.7167 l 0.4075,-5.7927 h 0.9572 l 0.9917,2.7982 c 0.2405,0.7363 0.432,1.3745 0.589,1.9636 h 0.015 c 0.1571,-0.5891 0.3633,-1.2273 0.6235,-1.9636 l 1.0358,-2.7982 h 0.9572 l 0.3633,5.7927 h -0.7412 l -0.1375,-2.5527"
+           style="fill:#ffffff;fill-rule:nonzero;stroke:none;stroke-width:0.02274234;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path1324" />
+      </g>
+      <g
+         style="fill:#ffffff"
+         id="g1269"
+         transform="translate(-1578.899,199.57641)">
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff;fill-rule:nonzero;stroke:none;stroke-width:1.37092125"
+           d="m 1747.7255,828.87475 c -1.6533,1.03765 -3.3757,1.39902 -5.5499,1.39902 -5.1644,0 -10.9694,-4.90255 -9.257,-14.30762 1.4987,-8.21607 8.2957,-14.41071 16.1578,-14.41071 7.6546,0 13.1429,4.61617 11.5751,13.28478 l -2.6903,14.75481 h -8.1029 l 2.2839,-12.61275 c 0.8891,-4.84634 0.2102,-7.77162 -4.1717,-7.77162 -3.7867,0 -6.3083,3.29611 -6.9074,6.53464 -0.7651,4.25205 1.1989,6.30171 4.2373,6.30171 1.4847,0 2.8147,-0.32806 3.7895,-0.68546 z"
+           id="path1523" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff;fill-rule:nonzero;stroke:none;stroke-width:1.37092125"
+           d="m 1674.0492,803.78716 c -2.215,0 -4.2238,0.6065 -6.07,1.75793 l 0.7128,-3.88656 h -8.1129 l -5.1022,27.93252 h 8.1064 l 2.7077,-14.83117 c 0.5924,-1.51816 2.1774,-3.77936 6.4562,-3.77936 h 5.7395 l 1.302,-7.19336 h -5.7187"
+           id="path1525" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff;fill-rule:nonzero;stroke:none;stroke-width:1.37092125"
+           d="m 1690.2272,822.48078 c -1.9981,0 -2.5148,-1.4259 -2.1152,-3.59333 l 1.4471,-7.85867 h 11.3068 l 1.2813,-7.1961 h -11.2861 c 0.7578,-4.18638 1.385,-7.55213 1.385,-7.55213 h -7.7717 l -4.2619,23.31375 c -0.796,4.32293 0.6237,9.99402 7.5138,9.99402 h 9.8287 l 1.2987,-7.10754 z"
+           id="path1527" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff;fill-rule:nonzero;stroke:none;stroke-width:1.37092125"
+           d="m 1636.4807,790.10345 c -0.1271,0.31723 -9.071,21.21843 -9.071,21.21843 0,-0.0107 -0.9987,2.5491 -0.9987,2.5491 0,0.008 -2.2839,5.5573 -2.2839,5.5573 l -0.3481,-0.0655 -0.3448,-5.19853 c -0.01,-0.007 -0.1512,-3.0418 -0.1512,-3.0418 0,0.0107 -0.3481,-4.66429 -0.3481,-4.66429 0,0 -1.1714,-15.87541 -1.2056,-16.35468 h -8.8989 c 0.041,0.56496 2.5564,31.40534 2.5564,31.40534 0.2617,3.16628 0.913,5.4649 1.9567,6.81444 0.9953,1.29593 2.4908,1.93327 4.5612,1.93327 2.0879,0 3.8998,-0.67216 5.3812,-1.99894 1.5363,-1.37353 3.0251,-3.70971 4.4235,-6.95098 0.01,0 13.2466,-30.49628 13.5458,-31.20313 z"
+           id="path1529" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff;fill-rule:nonzero;stroke:none;stroke-width:1.37092125"
+           d="m 1641.6211,829.58831 4.9294,-27.93649 h 8.0889 l -4.926,27.93649 z m 5.5633,-35.75362 c 0.2343,-1.32281 0.9029,-2.45532 2.0054,-3.38316 1.1159,-0.93045 2.3255,-1.40177 3.6583,-1.40177 1.3368,0 2.3845,0.47132 3.1663,1.40177 0.7751,0.92784 1.0542,2.06035 0.8093,3.38316 -0.2343,1.33075 -0.9024,2.46738 -2.0116,3.40715 -1.1058,0.94113 -2.3221,1.40972 -3.6521,1.40972 -1.3295,0 -2.3838,-0.46859 -3.1623,-1.40972 -0.7786,-0.93977 -1.0436,-2.0764 -0.8133,-3.40715 z"
+           id="path1531" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff;fill-rule:nonzero;stroke:none;stroke-width:1.37092125"
+           d="m 1723.7826,801.65853 c -0.096,0.55152 -2.7251,15.45097 -2.7251,15.45097 -0.245,1.39505 -0.8548,2.53963 -1.8161,3.41387 -0.9606,0.88232 -2.1112,1.33075 -3.3964,1.33075 -1.3228,0 -2.329,-0.46186 -3.0251,-1.37887 -0.496,-0.66134 -0.7437,-1.46332 -0.7437,-2.4072 0,-0.34136 0.024,-0.69616 0.096,-1.07508 0,0 2.2774,-12.96343 2.7012,-15.33444 h -8.1547 c -0.1,0.55152 -2.4841,14.03193 -2.4841,14.03193 -0.2617,1.4954 -0.3929,2.82478 -0.3929,3.97608 0,0.40566 0.021,0.79527 0.052,1.15404 0.1338,1.36023 0.4993,2.62134 1.0984,3.74728 0.9272,1.66814 2.205,2.96283 3.7902,3.84242 1.6085,0.88493 3.4721,1.3361 5.5359,1.3361 3.7968,0 7.1143,-1.28524 9.8635,-3.83433 2.7558,-2.54635 4.5472,-6.02191 5.3049,-10.33812 0,0 2.3155,-13.15097 2.4567,-13.9154 z"
+           id="path1533" />
+        <path
+           id="path1537"
+           d="m 1762.4363,829.59503 6.945,-39.45278 h 8.0963 l -6.959,39.45278 z"
+           style="fill:#ffffff;fill-rule:nonzero;stroke:none;stroke-width:1.37092125"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Overlay">
+    <rect
+       style="display:inline;opacity:0.25;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:19.7897892;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1387"
+       width="507.21579"
+       height="453.46838"
+       x="37.625313"
+       y="159.67639"
+       rx="8.9208527"
+       ry="8.9208527"
+       inkscape:export-xdpi="383.55157"
+       inkscape:export-ydpi="383.55157" />
+    <rect
+       inkscape:export-ydpi="383.55157"
+       inkscape:export-xdpi="383.55157"
+       ry="9.0156116"
+       rx="9.0156116"
+       y="147.26799"
+       x="34.931446"
+       height="458.28519"
+       width="512.60352"
+       id="rect1299"
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#d3d7cf;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <rect
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#d3d7cf;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1297"
+       width="512.60352"
+       height="458.28519"
+       x="34.931446"
+       y="127.26799"
+       rx="9.0156116"
+       ry="9.0156116"
+       inkscape:export-xdpi="383.55157"
+       inkscape:export-ydpi="383.55157" />
+    <rect
+       inkscape:export-ydpi="383.55157"
+       inkscape:export-xdpi="383.55157"
+       ry="9.0156116"
+       rx="9.0156116"
+       y="103.268"
+       x="34.931446"
+       height="458.28519"
+       width="512.60352"
+       id="rect1291"
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#d3d7cf;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <image
+       sodipodi:absref="/home/georg/Datenpartition/Software/Videospiele/GitHub-Projekte/open_videogame_console_graphics/Nintendo/Wii_U/Banners_and_Icons/Wii_U_VC_NintendoDS/cover.png"
+       xlink:href="cover.png"
+       clip-path="url(#clipPath1293)"
+       width="512.60352"
+       height="458.28519"
+       preserveAspectRatio="none"
+       id="image1288"
+       x="34.931446"
+       y="465.63016"
+       transform="translate(0,-362.36216)" />
     <path
        style="opacity:0.5;fill:url(#linearGradient4742);fill-opacity:1;stroke:none;stroke-width:1.53175676;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter4748)"
-       d="m 108.91068,106.6306 c -0.52,0 -0.7832,0.26318 -0.7832,0.7832 l 0,372.64649 c 118.3159,-22.73801 233.0607,-72.48095 339.4688,-147.31641 l 0,-225.33008 c 0,-0.52205 -0.2613,-0.7832 -0.7813,-0.7832 l -337.9043,0 z"
+       d="m 34.931446,133.268 c -0.52,0 -0.7832,0.26318 -0.7832,0.7832 V 506.69769 C 152.46415,483.95968 267.20895,434.21674 373.61705,359.38128 V 134.0512 c 0,-0.52205 -0.2613,-0.7832 -0.7813,-0.7832 z"
        id="rect4654-4"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       transform="matrix(1.4944298,0,0,1.0799173,-16.305653,-40.072162)" />
   </g>
 </svg>
