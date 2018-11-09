@@ -16,7 +16,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.92.3 (unknown)"
-   sodipodi:docname="WiiU_VC_GameCube_Template.svg"
+   sodipodi:docname="WiiU_VC_NintendoDS_Template.svg"
    inkscape:export-filename="/home/georg/Datenpartition/Software/Videospiele/GitHub-Projekte/open_videogame_console_graphics/Nintendo/Wii_U/Banners_and_Icons/Wii_U_VC_NintendoDS/bootTvTex.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
@@ -1819,11 +1819,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="-42.760509"
-     inkscape:cy="682.22477"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="519.44103"
+     inkscape:cy="762.42068"
      inkscape:document-units="px"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer4"
      showgrid="false"
      units="px"
      inkscape:window-width="1920"
@@ -1862,13 +1862,13 @@
     <image
        sodipodi:absref="/home/georg/Datenpartition/Software/Videospiele/GitHub-Projekte/open_videogame_console_graphics/Nintendo/Wii_U/Banners_and_Icons/Wii_U_VC_NintendoDS/icon.png"
        xlink:href="icon.png"
-       style="filter:url(#filter5176)"
-       y="11.375497"
-       x="1493.4707"
-       id="image5148"
-       preserveAspectRatio="none"
+       width="512"
        height="512"
-       width="512" />
+       preserveAspectRatio="none"
+       id="image5148"
+       x="1493.4707"
+       y="11.375497"
+       style="filter:url(#filter5176)" />
     <rect
        clip-path="none"
        inkscape:export-ydpi="24"
@@ -1928,13 +1928,13 @@
     <image
        sodipodi:absref="/home/georg/Datenpartition/Software/Videospiele/GitHub-Projekte/open_videogame_console_graphics/Nintendo/Wii_U/Banners_and_Icons/Wii_U_VC_NintendoDS/icon.png"
        xlink:href="icon.png"
-       clip-path="url(#clipPath5150)"
-       width="480"
-       height="480"
-       preserveAspectRatio="none"
-       id="image5145"
+       y="17.375528"
        x="1509.4707"
-       y="17.375528" />
+       id="image5145"
+       preserveAspectRatio="none"
+       height="480"
+       width="480"
+       clip-path="url(#clipPath5150)" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1947,12 +1947,12 @@
       <image
          sodipodi:absref="/home/georg/Datenpartition/Software/Videospiele/GitHub-Projekte/open_videogame_console_graphics/Nintendo/Wii_U/Banners_and_Icons/Wii_U_VC_NintendoDS/nds.png"
          xlink:href="nds.png"
-         y="-1292"
-         x="-2858"
-         id="image1412"
-         preserveAspectRatio="none"
+         width="2560"
          height="2560"
-         width="2560" />
+         preserveAspectRatio="none"
+         id="image1412"
+         x="-2858"
+         y="-1292" />
       <g
          id="g1517">
         <g
@@ -2020,35 +2020,35 @@
         <image
            sodipodi:absref="/home/georg/Datenpartition/Software/Videospiele/GitHub-Projekte/open_videogame_console_graphics/Nintendo/Wii_U/Banners_and_Icons/Wii_U_VC_NintendoDS/screenshot.png"
            xlink:href="screenshot.png"
-           clip-path="url(#clipPath1499)"
-           width="1043.5852"
-           height="1565.3778"
-           preserveAspectRatio="none"
-           id="image1490"
+           y="-1103.738"
            x="-2099.1472"
-           y="-1103.738" />
+           id="image1490"
+           preserveAspectRatio="none"
+           height="1565.3778"
+           width="1043.5852"
+           clip-path="url(#clipPath1499)" />
         <image
            sodipodi:absref="/home/georg/Datenpartition/Software/Videospiele/GitHub-Projekte/open_videogame_console_graphics/Nintendo/Wii_U/Banners_and_Icons/Wii_U_VC_NintendoDS/screenshot.png"
            xlink:href="screenshot.png"
-           clip-path="url(#clipPath1503)"
-           y="-702.10138"
-           x="-2099.1472"
-           id="image1493"
-           preserveAspectRatio="none"
+           width="1043.5852"
            height="1565.3778"
-           width="1043.5852" />
+           preserveAspectRatio="none"
+           id="image1493"
+           x="-2099.1472"
+           y="-702.10138"
+           clip-path="url(#clipPath1503)" />
       </g>
     </g>
     <image
        sodipodi:absref="/home/georg/Datenpartition/Software/Videospiele/GitHub-Projekte/open_videogame_console_graphics/Nintendo/Wii_U/Banners_and_Icons/Wii_U_VC_NintendoDS/background.png"
        xlink:href="background.png"
-       clip-path="url(#clipPath5051)"
-       width="720"
-       height="720"
-       preserveAspectRatio="none"
-       id="image5048"
+       y="0"
        x="560"
-       y="0" />
+       id="image5048"
+       preserveAspectRatio="none"
+       height="720"
+       width="720"
+       clip-path="url(#clipPath5051)" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2101,12 +2101,12 @@
     <image
        sodipodi:absref="/home/georg/Datenpartition/Software/Videospiele/GitHub-Projekte/open_videogame_console_graphics/Nintendo/Wii_U/Banners_and_Icons/Wii_U_VC_NintendoDS/logo.png"
        xlink:href="logo.png"
-       y="237.4106"
-       x="683.89355"
-       id="image476"
-       preserveAspectRatio="none"
+       width="400"
        height="250"
-       width="400" />
+       preserveAspectRatio="none"
+       id="image476"
+       x="683.89355"
+       y="237.4106" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:13.75px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -2132,30 +2132,25 @@
          x="-9.102005"
          y="-314.54333"
          style="letter-spacing:0px;fill:#eeeeec"
-         id="tspan5007">Gamepad from top: 1920x1080 pixels gc_pad_t.png</tspan><tspan
+         id="tspan5007">DS game from top: 1920x1080 cover.png</tspan><tspan
          sodipodi:role="line"
          x="-9.102005"
          y="-264.54333"
          style="letter-spacing:0px;fill:#eeeeec"
-         id="tspan5009">Gamepad perspective: 1920x1080 pixels gc_gamepad_p.png</tspan><tspan
+         id="tspan5009">DS from top: 1920x1920 pixels nds.png</tspan><tspan
          sodipodi:role="line"
          x="-9.102005"
          y="-214.54333"
          style="letter-spacing:0px;fill:#eeeeec"
-         id="tspan5011">Background: 1280x1280 pixels background.png</tspan><tspan
+         id="tspan5013">Background: 1280x1280 pixels background.png</tspan><tspan
          sodipodi:role="line"
          x="-9.102005"
          y="-164.54333"
          style="letter-spacing:0px;fill:#eeeeec"
-         id="tspan5013">Game Cover: 1000x1400 pixels cover.png</tspan><tspan
-         sodipodi:role="line"
-         x="-9.102005"
-         y="-114.54333"
-         style="letter-spacing:0px;fill:#eeeeec"
          id="tspan5017">Icon: 512x512 pixels icon.png</tspan><tspan
          sodipodi:role="line"
          x="-9.102005"
-         y="-64.543335"
+         y="-114.54333"
          style="letter-spacing:0px;fill:#eeeeec"
          id="tspan5021" /></text>
   </g>
@@ -2554,14 +2549,14 @@
     <image
        sodipodi:absref="/home/georg/Datenpartition/Software/Videospiele/GitHub-Projekte/open_videogame_console_graphics/Nintendo/Wii_U/Banners_and_Icons/Wii_U_VC_NintendoDS/cover.png"
        xlink:href="cover.png"
-       clip-path="url(#clipPath1293)"
-       width="512.60352"
-       height="458.28519"
-       preserveAspectRatio="none"
-       id="image1288"
-       x="34.931446"
+       transform="translate(0,-362.36216)"
        y="465.63016"
-       transform="translate(0,-362.36216)" />
+       x="34.931446"
+       id="image1288"
+       preserveAspectRatio="none"
+       height="458.28519"
+       width="512.60352"
+       clip-path="url(#clipPath1293)" />
     <path
        style="opacity:0.5;fill:url(#linearGradient4742);fill-opacity:1;stroke:none;stroke-width:1.53175676;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter4748)"
        d="m 34.931446,133.268 c -0.52,0 -0.7832,0.26318 -0.7832,0.7832 V 506.69769 C 152.46415,483.95968 267.20895,434.21674 373.61705,359.38128 V 134.0512 c 0,-0.52205 -0.2613,-0.7832 -0.7813,-0.7832 z"

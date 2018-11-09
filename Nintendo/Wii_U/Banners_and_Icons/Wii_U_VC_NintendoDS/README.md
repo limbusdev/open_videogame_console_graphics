@@ -7,9 +7,9 @@ Simply replace the included generic example images with proper game media. Open 
 Put the following images into the same directory:
 
 * **Game Logo:** 400x250 pixels `logo.png`
-* **NintendoDS from top:** 1920x1080 pixels `gc_pad_t.png`
+* **NintendoDS from top:** 1920x1920 pixels `gc_pad_t.png`
 * **Background:** 1280x1280 pixels `background.png`
-* **Game Cover:** 2048x2048 pixels `cover.png`
+* **Game Cover:** 2048x1831 pixels `cover.png`
 * **Icon:** 512x512 pixels `icon.png`
 
 You can find more Nintendo colors in `Nintendo/NintendoDS/`
